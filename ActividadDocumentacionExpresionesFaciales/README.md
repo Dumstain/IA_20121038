@@ -44,7 +44,7 @@ El sistema se compone de los siguientes módulos:
    - Indicadores visuales para confirmar la detección de vida y la emoción.
 
 > **Imagen sugerida:** Diagrama de flujo de la arquitectura del sistema.  
-> _[Imagen pendiente de generación: Diagrama de flujo del sistema]_
+![Diagrama de flujo del sistema](imagen1.png)
 
 ---
 
