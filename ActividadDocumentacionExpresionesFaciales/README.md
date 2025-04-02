@@ -43,8 +43,8 @@ El sistema se compone de los siguientes módulos:
    - Superposición de landmarks y etiquetas de emoción en los frames.
    - Indicadores visuales para confirmar la detección de vida y la emoción.
 
-> **Imagen sugerida:** Diagrama de flujo de la arquitectura del sistema.  
-<img src="imagen1.png" alt="Diagrama de flujo del sistema" style="height:1.5em; vertical-align:middle;">
+> **Imagen:** Diagrama de flujo de la arquitectura del sistema.  
+![Diagrama de flujo del sistema](imagen1.png)
 
 ---
 
@@ -64,8 +64,8 @@ La detección de vida busca asegurar que la imagen capturada corresponde a una p
 - **Normalización:**  
   Realizar ajustes de iluminación y redimensionar la imagen para optimizar la detección de landmarks.
 
-> **Imagen sugerida:** Flujo de captura y preprocesamiento de un frame.  
-> _[Imagen pendiente de generación: Ejemplo de preprocesamiento de imagen]_
+> **Imagen:** Flujo de captura y preprocesamiento de un frame.  
+![ Flujo de captura y preprocesamiento de un frame](imagen2.png)
 
 #### 4.2.2. Extracción de Landmarks
 
@@ -75,8 +75,8 @@ La detección de vida busca asegurar que la imagen capturada corresponde a una p
 - **Selección de Regiones Clave:**  
   Enfocarse en los ojos (para calcular el EAR) y otros puntos relevantes que permitan analizar movimientos faciales.
 
-> **Imagen sugerida:** Ejemplo de un rostro con landmarks extraídos.  
-> _[Imagen pendiente de generación: Rostro con puntos de referencia resaltados]_
+> **Imagen:** Ejemplo de un rostro con landmarks extraídos.  
+![Ejemplo de un rostro con landmarks extraídos](imagen3.png)
 
 #### 4.2.3. Cálculo del Eye Aspect Ratio (EAR)
 
@@ -98,8 +98,8 @@ La detección de vida busca asegurar que la imagen capturada corresponde a una p
 - **Umbral:**  
   Si el valor del EAR cae por debajo de un umbral predefinido durante un corto período, se detecta un parpadeo, lo que confirma actividad y, por ende, vida.
 
-> **Imagen sugerida:** Diagrama del cálculo del EAR con ejemplos de puntos y fórmula.  
-> _[Imagen pendiente de generación: Diagrama explicativo del EAR]_
+> **Imagen:** Diagrama del cálculo del EAR con ejemplos de puntos y fórmula.  
+![Diagrama del cálculo del EAR con ejemplos de puntos y fórmula](imagen4.png)
 
 #### 4.2.4. Análisis Temporal
 
@@ -149,8 +149,7 @@ El reconocimiento de emociones se basa en el análisis de la relación geométri
   Seleccionar aquellos puntos que permitan calcular los ratios y ángulos necesarios para el análisis (por ejemplo, puntos en los bordes y centro de la boca para calcular el MAR).
 
 > **Imagen sugerida:** Ejemplo de selección de puntos en la boca y cejas.  
-> _[Imagen pendiente de generación: Rostro con regiones de interés resaltadas]_
-
+![Ejemplo de selección de puntos en la boca y cejas](imagen5.png)
 #### 5.3.2. Cálculo de Parámetros Geométricos
 
 - **Mouth Aspect Ratio (MAR):**  
@@ -162,7 +161,7 @@ El reconocimiento de emociones se basa en el análisis de la relación geométri
   2. Comparar los ángulos obtenidos con los de una posición neutral.
 
 > **Imagen sugerida:** Diagrama explicativo del cálculo del MAR y medición de ángulos de cejas.  
-> _[Imagen pendiente de generación: Diagrama explicativo de MAR y ángulos de cejas]_
+![]()
 
 #### 5.3.3. Clasificación de Emociones
 
@@ -190,8 +189,7 @@ Existen dos enfoques para la clasificación de emociones:
   Ajustar umbrales y parámetros en función de las condiciones del entorno (iluminación, distancia) para mejorar la precisión.
 
 > **Imagen sugerida:** Ejemplo de visualización en pantalla con superposición de landmarks y etiqueta de emoción.  
-> _[Imagen pendiente de generación: Frame de video con superposición de landmarks y etiqueta de emoción]_
-
+![]()
 ---
 
 ## 6. Flujo de Implementación Paso a Paso
