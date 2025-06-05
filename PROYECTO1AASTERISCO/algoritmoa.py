@@ -106,8 +106,17 @@ class Nodo:
     def hacer_camino(self): 
         if not self.es_inicio and not self.es_fin: self.color = PURPURA
     def calcular_heuristica(self, nodo_fin):
-        dx = abs(self.fila - nodo_fin.fila); dy = abs(self.col - nodo_fin.col)
-        self.h_cost = COSTO_DIAGONAL * min(dx, dy) + COSTO_CARDINAL * (abs(dx - dy))
+        dx = abs(self.fila - nodo_fin.fila)
+        dy = abs(self.col - nodo_fin.col)
+        
+        # Heurística básica (Manhattan con diagonal)
+        heuristica_base = COSTO_DIAGONAL * min(dx, dy) + COSTO_CARDINAL * (abs(dx - dy))
+        
+        # Tie-breaking: añadir un pequeño sesgo basado en la distancia al objetivo
+        # Esto favorece caminos que van más directamente hacia el objetivo
+        tie_breaker = (dx + dy) * 0.001  # Muy pequeño para no afectar la optimalidad
+        
+        self.h_cost = heuristica_base + tie_breaker
         return self.h_cost
     def actualizar_vecinos(self, grid_nodos):
         self.vecinos = []
