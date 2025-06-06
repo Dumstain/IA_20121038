@@ -1,0 +1,720 @@
+Transhumanismo, regulación de las tecnologías
+reproductivas y dignidad humana
+Transhumanism, Reproductive Technologies Regulation
+and Human Dignity
+Jorge Nicolás Lafferriere
+Pontificia Universidad Católica Argentina, Facultad de Derecho
+nicolas_lafferriere@uca.edu.ar
+https://orcid.org/0000-0003-2600-2226
+
+RECIBIDO: 22/12/2020 / ACEPTADO: 24/02/2021
+
+Resumen: Evidenciando su desmesura, el transhumanismo pretende recurrir a las biotecnologías reproductivas
+con la pretensión de superar las limitaciones biológicas del
+cuerpo humano, seleccionando las características genéticas de la descendencia (beneficencia procreativa). Con
+fundamento en el principio de la dignidad humana y el
+reconocimiento de los derechos fundamentales, en este
+trabajo se hace una valoración del objetivo enunciado
+tanto como de los medios propuestos para lograrlo. Sólo
+una dimensión ontológica de la dignidad, que exige el respeto de la vida humana y la originalidad de su forma de
+transmisión, ofrece fundamento fuerte para responder a
+estos desafíos.
+
+Abstract: Transhumanism intends to overcome the biological limitations of the human body, selecting the genetic characteristics of the offspring using reproductive
+biotechnologies (procreative beneficence). Based on the
+principle of human dignity and the recognition of fundamental rights, this paper makes an assessment of the
+objective mentioned before as well as the means proposed
+to achieve it. Only an ontological understanding of human
+dignity, which requires to respect the right to life of human
+beings and the originality of the transmission of life, offers
+a strong foundation to respond to these challenges.
+
+Palabras clave: transhumanismo, beneficencia procreativa, dignidad humana, biotecnologías.
+
+Keywords: Transhumanism, Procreative Beneficence,
+Human Dignity, Biotechnology.
+
+I. Introducción
+
+E
+
+n este trabajo me propongo analizar el problema de la regulación jurídica de las tecnologías reproductivas aplicadas al ser humano como
+herramientas del movimiento transhumanista para la consecución de sus
+objetivos vinculados con superar las limitaciones del ser humano a través de la
+selección y diseño de la mejor descendencia posible, a la luz del principio de la
+dignidad humana y los derechos fundamentales.
+PERSONA Y DERECHO / VOL. 84 / 2021/1 / 329-346
+ISSN 0211-4526 • DOI 10.15581/011.84.015
+
+329
+
+JORGE NICOLÁS LAFFERRIERE
+
+Luego de explicar la conexión entre tecnologías reproductivas y el Transhumanismo (TH), analizaré el principio de Beneficencia Procreativa (BP)
+enunciado por Savulescu, uno de los fundamentos conceptuales de esta dimensión del TH.
+A partir de ese marco, realizaré una valoración ético-jurídica del TH y
+del principio de BP en torno a lo que considero las dos cuestiones decisivas:
+los alcances de la libertad reproductiva y el inicio de la vida humana. En efecto, para diferenciarse de la eugenesia del siglo XX, los defensores de la BP
+sostienen que respetan la libertad reproductiva, y que sus posturas reflejan
+prácticas socialmente aceptadas para la procreación natural. Ante ello, consideraré las críticas que se formulan al principio de BP por desconocer las
+poderosas formas de coerción que operan para imponer la selección de la descendencia. Pero en este trabajo propongo profundizar la cuestión de fondo, es
+decir, la discusión sobre los alcances de la libertad reproductiva y cuáles son
+las opciones para los padres que se derivan de la dignidad humana y la originalidad de la transmisión de la vida. En este punto, procuraré demostrar que
+no es admisible que se pretenda poner el proceso de generación de un nuevo
+ser humano, que debe estar caracterizado por el don y la gratuidad, bajo una
+lógica de producción y control. Junto con esta cuestión, el otro gran límite a la
+libertad procreativa que consideraré refiere a la determinación del momento
+en que se inicia la vida humana.
+Concluiré con un balance en torno a la hipótesis central del trabajo: la
+dignidad entendida como pura autonomía no ofrece fundamento fuerte para
+poner cauces jurídicos a las biotecnologías y conduce a una pendiente resbaladiza de progresiva aprobación de todo tipo de aplicaciones biotecnológicas
+orientadas a modelar la vida humana. Sostengo la necesidad de un abordaje
+de las cuestiones jurídicas implicadas en el movimiento transhumanista, en
+el específico aspecto vinculado con las tecnologías reproductivas, a partir de
+entender a la dignidad desde su necesario fundamento ontológico1, con particular referencia al valor del derecho a la vida y al respeto a la originalidad de
+la transmisión de la vida humana.
+
+1
+
+Aparisi Miralles, A., «El principio de la dignidad humana como fundamento de un bioderecho
+global», Cuadernos de Bioética, 24, n. 81, 2013, pp. 201-22.
+
+330
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+II. Transhumanismo y tecnologías reproductivas
+
+II.1. El transhumanismo y la mejora de la descendencia
+El transhumanismo (en adelante, TH) es un movimiento científico y filosófico de muy amplios alcances y de difícil caracterización unívoca. Bostrom,
+uno de sus más salientes representantes, sostiene que el transhumanismo es un
+«movimiento intelectual y cultural que afirma como posibilidad y como deseo la necesidad de mejorar fundamentalmente la condición humana a través
+de una razón aplicada, especialmente desarrollando y haciendo ampliamente accesibles las tecnologías para eliminar el envejecimiento y para potenciar
+(enhance) de la mayor manera posible las capacidades intelectuales, físicas y
+psicológicas humanas»2. También incluye «el estudio de las ramificaciones,
+promesas y potenciales peligros de las tecnologías que permiten superar las
+limitaciones humanas, y sus cuestiones éticas»3.
+Asla explica que el TH se propone la utilización convergente de las nuevas tecnologías (nano, bio, info y cogni) para la transformación de la naturaleza humana a partir de un presupuesto fundamental: «la obsolescencia del
+cuerpo humano, que no representaría más que el remanente evolutivo de un
+nicho vital que ya no es el nuestro»4.
+Para superar este problema, según la sistematización que ha hecho Asla, el
+TH propone un programa de liberación en cuatro frentes: una liberación morfológica, una liberación reproductivo-sexual, una cognitivo-moral y una última,
+que podríamos llamar «definitiva» que pretende prorrogar, cuanto sea posible,
+el encuentro con la muerte5. Se advierte así que la pretensión de liberar al cuerpo de sus limitaciones se dirige tanto hacia las personas ya existentes, como así
+las que van a existir como fruto de la procreación. Es en torno a este campo de
+la procreación y la búsqueda de seleccionar la mejor descendencia posible que
+se dirige nuestra investigación del TH.
+Esta posibilidad de incidir en la constitución genética de la descendencia
+reposa sobre el presupuesto de poder recurrir a biotecnologías que interme-
+
+2
+3
+4
+5
+
+Bostrom, N., «The Transhumanist FAQ», https://www.nickbostrom.com/views/transhumanist.pdf, 2003.
+Ibid. (Traducción del autor).
+Asla, M., «Transhumanismo», Diccionario Interdisciplinar Austral, Universidad Austral, Buenos
+Aires, 2020, pp. 1-26. http://dia.austral.edu.ar/index.php?title=Transhumanismo&action=mpdf.
+Ibidem.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+331
+
+JORGE NICOLÁS LAFFERRIERE
+
+dian en la procreación humana. Esto es decisivo y se configura por medio de
+distintas herramientas técnicas que van habilitando cada vez mayores posibilidades de selección y opción para quienes quieren generar una nueva vida.
+Presupuesto fundamental de esta aspiración es un conocimiento cada vez más
+preciso y completo del genoma humano, de las claves del funcionamiento biológico de las células y del proceso de concepción del nuevo individuo. De la
+alianza entre intermediación técnica en la procreación y conocimiento genómico y biológico surgen distintas posibilidades de lograr el objetivo de un hijo
+deseado que supera las limitaciones biológicas humanas.
+En sintético recorrido6, las técnicas que se basan en el diagnóstico son: a)
+la selección de gametos que se usarán en la fecundación, con mecanismos cada
+vez más sofisticados para aumentar las chances de obtener el resultado deseado7; b) la selección de embriones a través de su observación morfológica8 o
+bien por diagnóstico genético preimplantatorio (DGP)9; c) el aborto selectivo
+del por nacer a partir de un diagnóstico prenatal, facilitado por los estudios no
+invasivos que logran detectar células fetales en la sangre materna10.
+En cuanto a las técnicas que procuran modificar la constitución genética de una forma más directa, encontramos: a) la clonación humana, con su
+variante en la donación mitocondrial11; b) la posibilidad de generar gametos
+
+6
+7
+
+8
+
+9
+
+10
+
+11
+
+Por supuesto, algunas de estas tecnologías todavía están en fase de experimentación y su aplicación no parece inmediata.
+Por ejemplo, el sistema de «Selección de donante de gametos en base a cálculos genéticos»
+(Gamete donor selection based on genetic calculations) patentado el 24 de septiembre de 2013
+en la Oficina de Patentes de los Estados Unidos por la empresa 23andMe, Inc. Sobre el tema ver
+Suter, S. M., «The Tyranny of Choice: Reproductive Selection in the Future», Journal of Law
+and the Biosciences, 5, n. 2 (2018), pp. 262-300.
+Balaban, B., Brison, D., Calderón, G., Catt, J., Conaghan, J. Cowan, L., Ebner, T. et
+al., «The Istanbul Consensus Workshop on Embryo Assessment: Proceedings of an Expert
+Meeting», Human Reproduction, 26, no. 6 (2011), pp. 1270-83.
+Handyside, A. H., Kontogianni, E. H., Hardy, K., Winston. R. M. L., «Pregnancies from
+Biopsied Human Preimplantation Embryos Sexed by Y-Specific DNA Amplification», Nature,
+344, n. 6268 (1990), pp. 768-70.
+ACOG Committee, «Committee Opinion No. 640. Cell-Free Dna Screening for Fetal Aneuploidy», Obstetrics & Gynecology, 126, n. 3 (2015), pp. 31-37; Dondorp, W., De Wert, G., Bombard, Y., Bianchi, D.W., Bergmann, C. et al., «Non-Invasive Prenatal Testing for Aneuploidy
+and beyond: Challenges of Responsible Innovation in Prenatal Screening», European Journal of
+Human Genetics, 23, n. 11 (2015), pp. 1438-50.
+Contardi, S.L., «Bebés de tres padres: en Gran Bretaña permiten técnicas de reemplazo mitocondrial para su aplicación en pacientes», https://centrodebioetica.org/bebes-de-tres-padresen-gran-bretana-permiten-tecnicas-de-reemplazo-mitocondrial-para-su-aplicacion-en-pacientes/, junio 5, 2017 [25/07/2020].
+
+332
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+in vitro (gametogénesis)12 y c) la edición genética humana (Clustered Regularly
+Interspaced Short Palindromic Repeats) como intervención que permitiría la modificación de características genéticas del embrión13.
+
+II.2. El principio de Beneficencia Procreativa
+La existencia y disponibilidad de las tecnologías reproductivas que permitirían avanzar en los objetivos del TH, es complementada con una visión
+que entiende que es un deber tener el mejor hijo posible, por aplicación del
+principio llamado de «Beneficencia Procreativa» (BP). Julian Savulescu formula este principio así:
+«... las parejas (o los individuos) deben elegir el hijo, entre todos los posibles
+hijos que podrían tener, que sea esperable que tenga la mejor vida posible, o
+al menos una vida tan buena como la de los demás, en base a la información
+disponible»14.
+
+La BP reposa sobre la idea de que es posible optar por el mejor hijo posible, contando con información y el recurso a la fecundación in vitro. También
+se da por descontado el descarte de embriones y aún el aborto luego de un
+diagnóstico prenatal adverso, aunque para Savulescu el aborto tiene mayores
+riesgos que el descarte de embriones luego del DGP15.
+La BP descansa sobre tres principios: la autonomía reproductiva, el carácter «no directivo» de la actuación de los profesionales y el interés superior
+del niño y puede basarse en distintas concepciones del bienestar16. La BP es un
+principio moral que debe guiar las opciones reproductivas17.
+El TH encuentra en el principio de BP un fundamento para su objetivo
+de modelar las características de la descendencia. Para Bostrom los padres
+
+12
+13
+
+14
+15
+16
+17
+
+Bourne, H., Douglas, T., Savulescu, J., «Procreative Beneficence and in Vitro Gametogenesis», Monash Bioethics Review, 30, n. 2 (2012), pp. 29-48.
+Reis, A., Homblower, B., «CRISPR/Cas9 & Targeted Genome Editing: New Era in Molecular Biology», https://www.neb.com/tools-and-resources/feature-articles/crispr-cas9-and-targeted-genome-editing-a-new-era-in-molecular-biology, NEB Expressions, I (2014).
+Savulescu, J., «Procreative Beneficence: Why We Should Select the Best Children», Bioethics,
+15, n. 5-6 (2001), p. 405. (Traducción del autor).
+Ibid., p. 421.
+Ibid., p. 419.
+Savulescu, J., Kahane, G., «Understanding Procreative Beneficence», Oxford Handbook of Reproductive Ethics, Oxford University Press, Oxford, 2016, p. 594.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+333
+
+JORGE NICOLÁS LAFFERRIERE
+
+tienen una responsabilidad moral de recurrir a la medicina genética y al diagnóstico de embriones, siempre que sean seguros y efectivos, para generar un
+hijo sano, feliz y con talentos múltiples18.
+
+III. Valoración ético-jurídica del transhumanismo aplicado
+a la selección de la descendencia
+
+III.1. El principio de Beneficencia Procreativa y la libertad reproductiva
+La pretensión de determinar genéticamente las características de la descendencia ha recibido numerosas críticas, máxime cuando se expresa como un
+supuesto deber de tener el mejor hijo posible19.
+Sobre todo desde grupos de personas con discapacidad, se critica la similitud del TH con la eugenesia del siglo XX por considerarse que violentan
+la libertad reproductiva. «Como por una pendiente resbaladiza, el peligro es
+conformar una sociedad en la que cualquier característica indeseable de un
+niño se entienda como fruto de una negligencia paterna» 20. Savulescu responde afirmando que una obligación moral no necesariamente significa una
+obligación legal y pone el ejemplo del deber moral que tienen los padres de
+lograr que sus hijos se laven los dientes. Fallar en ese deber no es un crimen
+y no pueden aplicarse medios coercitivos para que se cumpla con ese deber 21.
+Considera que no se trata de una obligación absoluta, sino que es algo similar a lo que ocurre cuando alguien afirma «debes dar a tus hijos la mejor
+educación» 22.
+En realidad, esta pretendida distinción entre obligación moral y obligación legal es una ilusión. Si bien no hay hoy una planificación centralizada
+y compulsiva de las decisiones reproductivas a partir del aborto y la esterilización, como sucedió con la eugenesia del siglo XX, hay mecanismos condicionantes mucho más sutiles, como la amenaza de demandas por daños y
+
+18
+19
+
+20
+21
+22
+
+Bostrom, «The Transhumanist FAQ», op. cit.
+En 2016, Savulescu da cuenta que su primer trabajo sobre el tema, publicado en 2001, había
+tenido al menos 343 artículos que lo comentaban, en su mayoría en forma crítica: Savulescu,
+J., Kahane, G., Understanding Procreative Beneficence, op. cit., p. 598.
+Asla, «Transhumanismo», op. cit.
+Savulescu, J., Kahane, G., Understanding Procreative Beneficence, op. cit., p. 596.
+Ibid., p. 592.
+
+334
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+perjuicios contra el médico que omita recomendar caminos para evitar el nacimiento de una persona con discapacidad; la presión de los sistemas de salud
+ejercida a través del aumento de costos por el nacimiento de una persona con
+discapacidad en caso que tal hecho hubiera sido posible de prevenir; la función preventiva de la responsabilidad civil; la creciente disponibilidad de los
+servicios genéticos; en algunos países, la financiación del recurso a las técnicas
+de procreación artificial por el sistema de seguridad social; la consolidación de
+una idea de calidad de vida que exalta la utilidad y la eficiencia, discriminando
+a las personas con discapacidad. Otros factores son la sed de información, la
+presión del marketing y las presiones competitivas sobre los futuros padres23.
+Todos estos elementos configuran poderosos mecanismos que condicionan y
+limitan la declamada libertad reproductiva.
+
+III.2. ¿Cuáles límites para la libertad reproductiva?
+Ahora bien, aun suponiendo que no existiera tal coerción y que hubiera
+auténtica libertad, la cuestión que se abre es cómo entienden los defensores de
+la BP esa libertad reproductiva.
+Es reveladora la disputa con algunos grupos en favor de las personas con
+discapacidad que adoptan una idea extrema de libertad reproductiva y entienden que ella incluiría un presunto derecho a engendrar en forma deliberada un
+hijo con discapacidad24. Es conocido el caso de las dos mujeres sordas que quisieron tener un hijo sordo y para eso recurrieron a un dador de gametos sordo.
+Ellas afirman que querían criar a su hijo en la cultura de la sordera. Así, se critica al principio de BP por impedirles tomar esa decisión. En 2009, Savulescu
+responde a esta objeción afirmando que la BP no sostiene que las vidas de las
+personas sordas no sean dignas de ser vividas o no sean suficientemente buenas. Considera que primero que hay que adoptar cierta concepción del bienestar y luego identificar las causas que influyen para el logro de ese bienestar
+en unas circunstancias determinadas y en función de ello aplicar la BP25. Para
+Savulescu y Kahane, las concepciones subjetivistas del bienestar son ilimitadas
+
+23
+24
+25
+
+Suter, S., «The Tyranny of Choice: Reproductive Selection in the Future», op. cit., p. 278.
+«Regulating Preimplantation Genetic Diagnosis: The Pathologization Problem», Harvard Law
+Review, 118, n. 8 (2005), p. 2782.
+Savulescu, J., Kahane, G., «The Moral Obligation to Create Children with the Best Chance
+of the Best Life», Bioethics, 23, n. 5, 2009, p. 288.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+335
+
+JORGE NICOLÁS LAFFERRIERE
+
+y uno podría literalmente desear cualquier cosa26. Ellos sostienen una visión
+del bienestar compuesta de elementos objetivos y subjetivos, y entienden que
+la BP pueden tener un valor predictivo válido en tanto algunas características
+de nuestra genética y nuestra biología son más conducentes para poseer y disfrutar cosas que son objetivamente buenas para nosotros27.
+Los defensores de la BP entienden que la libertad reproductiva debe estar guiada por lo que denominan «razones impersonales» en tanto no están
+implicados los beneficios o daños al niño que se genera, sino que su postulado
+consiste en sostener que es mejor traer a la vida a un niño sin discapacidad que
+a otro con una discapacidad severa, porque esto apunta a un mundo mejor en
+un sentido impersonal28. Para matizar esta afirmación, y en concordancia con
+su respuesta a las críticas desde los movimientos de personas con discapacidad,
+Savulescu y Kahane reafirman una libertad reproductiva en la que las razones
+impersonales pueden ceder ante fuertes razones personales, entre las que se
+cuenta incluso el daño directo que le significaría a una persona con discapacidad impedirle tener hijos29. Según Savulescu, la BP no afirma que haya que
+preferir el embrión A al embrión B porque B sería anormal y A normal, sino
+que nos dice de preferir el embrión A porque es esperable que tenga una mejor
+vida30. Y ello se decide en cada caso.
+Esta aparente neutralidad ante las opciones reproductivas de la BP no
+es tal, pues ante las visiones que postulan que la discapacidad sólo sería una
+situación desventajosa por el contexto, Savulescu y Kahane reconocen que
+hay muchas circunstancias en las que condiciones como la sordera se tornan
+desventajosas por culpa de la injusticia social y los prejuicios, pero entienden
+que si aún esos prejuicios e injusticias desaparecieran la sordera conllevaría
+una desventaja residual por reducir el acceso a opciones y bienes de la música
+y el sonido31. Y sobre la acusación de potenciales derivaciones racistas de la
+BP, sostienen que, como regla general, los estereotipos sociales van a tener una
+baja o modesta influencia en la ética aplicada a las decisiones de selección32.
+
+26
+27
+28
+29
+30
+31
+32
+
+Savulescu, J., Kahane, G., Understanding Procreative Beneficence, op. cit., p. 602.
+Ibid., p. 604.
+Ibid., p. 610.
+Ibid., p. 613.
+Savulescu, J., Kahane, G., «The Moral Obligation to Create Children with the Best Chance
+of the Best Life», op. cit., p. 288.
+Savulescu, J., Kahane, G., Understanding Procreative Beneficence, op. cit., 605.
+Ibid., p. 607.
+
+336
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+En este sentido, movimientos de personas con discapacidad sostienen el
+llamado argumento «expresivista», que señala que cuando se elimina de forma
+sistemática a las personas con discapacidad luego de un diagnóstico preimplantatorio o prenatal adverso, se envía un mensaje negativo hacia las personas
+con discapacidad ya nacidas en el sentido que su vida no es digna de ser vivida
+y sería preferible que hubieran sido descartados o no concebidos33. Al respecto, Savulescu y Kahane responden que todo lo que aumente o reduzca las posibilidades de una buena vida sería el objetivo de la selección y no simplemente
+la ceguera, la sordera o la discapacidad intelectual34.
+Así, se advierte que los defensores del TH y la BP quieren diferenciarse
+de la vieja eugenesia, reivindicando el principio de autonomía reproductiva.
+Pero, al mismo tiempo, se apartan de quienes sostienen una libertad reproductiva absoluta, señalando un deber de tener el mejor hijo posible y procurando ofrecer criterios impersonales y más objetivos sobre el bienestar. La BP
+alega ser la postura más consistente con las prácticas ordinarias y el pensamiento habitual en torno a la reproducción, por oposición a quienes sostienen
+una completa libertad reproductiva y un asesoramiento médico que sea «no
+directivo»35. Según Savulescu y Kahane, aunque se presenta la BP como una
+visión radical, para ellos es solo una extensión de prácticas extendidas socialmente aceptadas36.
+Ciertamente la libertad reproductiva es una de las libertades fundamentales de la persona humana y por eso, históricamente, ha gozado de una amplia
+protección ético-jurídica. Las políticas de control poblacional y de limitación
+de los nacimientos ofenden esa libertad básica. En última instancia, tanto la
+BP como la libertad reproductiva absoluta, convergen en pretender que la
+intermediación técnica en la procreación es igual que la procreación natural
+y reclaman los mismos privilegios que se reconocen a esa dimensión fundamental.
+Ahora bien, esa pretensión de asemejarse y reivindicar para sí las libertades propias de la procreación natural soslaya un factor decisivo: la intermedia-
+
+33
+
+34
+35
+36
+
+Parens, E., Asch, A., «The Disability Rights Critique of Prenatal Genetic Testing Reflections
+and Recommendations», The Hastings Center Report, 29, n. 5 (1999), pp. 21-22; Lafferriere,
+J.N., Implicaciones jurídicas del diagnóstico prenatal. El concebido como hijo y paciente, EDUCA, Buenos Aires, 2011, p. 712-13.
+Savulescu, J., Kahane, G., Understanding Procreative Beneficence, op. cit., p. 599.
+Ibid., p. 593.
+Ibid., p. 597.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+337
+
+JORGE NICOLÁS LAFFERRIERE
+
+ción técnica en la procreación, un problema de fondo que está subyacente en
+todo este debate.
+Las posturas de la BP y de la libertad reproductiva absoluta presuponen
+siempre que los adultos cuentan con un conjunto de herramientas técnicas
+para hacer «opciones» al momento de tener un hijo, que van desde la posibilidad de recurrir a las técnicas reproductivas, sobre todo la fecundación in vitro,
+a los estudios diagnósticos y de intervención de la genética y la posibilidad de
+descartar embriones o fetos. Ahora bien, si se cuenta con esa posibilidad de intermediar técnicamente en la procreación, termina siendo lógico que se sigan
+presiones para utilizar esas herramientas en favor de contar con el mejor hijo
+posible. Todos quieren el interés superior del hijo. El problema se encuentra
+en hasta dónde llegan las «opciones» con las que cuentan los padres. Por ello
+empleamos al inicio la expresión desmesura del transhumanismo como advertencia de muy seguros desatinos.
+La libertad reproductiva, en tanto involucra la especial problemática de
+la transmisión de la vida humana, se tiene que ejercer dentro de los fines y
+principios que señala la racionalidad práctica. No es una libertad cualquiera, porque necesariamente se orienta a dar origen a otro ser humano. Está
+indudablemente relacionada al «otro», el hijo, también sujeto de derecho. Y
+respecto a ese nuevo ser humano existe un concreto y exigible deber de justicia
+de respetarlo en su única e irrepetible dignidad. Es inadmisible una «libertad»
+que pretende que el nuevo ser humano sea engendrado bajo una lógica de la
+producción y control.
+Solo el respeto a la originalidad de la transmisión de la vida por la unión
+sexual garantiza condiciones objetivas, desprovistas del control y manipulación humana, que aseguran que la vida sea transmitida con la gratuidad y el
+don que exige la dignidad de la persona humana. Como dice Sandel,
+«el problema reside en la hybris de los padres, en su ambición de controlar
+el misterio del nacimiento. No es que eso convierta inmediatamente a los
+padres en tiranos para sus hijos, sino que desfigura la relación entre ambos,
+y priva a los padres de la humildad y la empatía humana que promueve la
+apertura a lo recibido»37.
+
+37
+
+Sandel, M., Contra la perfección. La ética en la era de la ingeniería genética, Traducción de R. Vilà
+Vernis, Marbot Ediciones, Barcelona, 2007, p. 69.
+
+338
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+Para Sandel en la transmisión de la vida está en juego la idea de don y
+apertura a lo desconocido, término que toma de William F. May. Por su parte,
+Fukuyama sostiene sobre el TH que así como el movimiento ambientalista
+nos enseñó humildad y respeto por la integridad de la naturaleza no humana,
+tenemos necesidad de una humildad semejante en lo que respecta a nuestra
+naturaleza humana38. Como afirma Habermas, pretender fijar las características de la propia descendencia supone una forma de subordinación del que va
+a venir39.
+Procrear es más que generar un cuerpo. Si fuera eso, sería lógico procurar maximizar nuestras opciones reproductivas con herramientas tecnológicas
+orientadas a la configuración biológica de la descendencia. En la procreación
+están implicados principios y valores derivados de la dignidad humana, porque
+lo proporcionado a esa dignidad es que cada vida sea un don y no un producto.
+Llamar la atención sobre la necesidad de poner límites a las tecnologías
+reproductivas no significa desconocer el legítimo problema de las patologías
+que afectan la fertilidad. Al contrario, el objetivo es dar cauces de fondo y seguros a las biotecnologías para que se dirijan hacia el desarrollo de verdaderas
+soluciones terapéuticas sobre las causas de esterilidad. Tampoco significa afirmar que las personas que recurren a la intermediación técnica en la procreación tengan una intencionalidad eugenésica. Se trata de hacer una valoración
+ético-jurídica objetiva sobre las consecuencias sociales que tiene la disponibilidad, accesibilidad y creciente rutinización de estas biotecnologías.
+En síntesis, tanto por exigencias de respeto a la dignidad humana y su
+conexión con la idea de la vida como don, asegurada por el respeto a la originalidad de su transmisión, como por las potenciales consecuencias eugenésicas, existe un interés público sustantivo en poner límites a la intermediación
+técnica en la procreación para orientarla hacia el bien común40. Es necesario,
+sobre todo, reconocer que existe una diferencia sustantiva entre la procreación
+natural y la intermediación técnica, y que ésta, por sus consecuencias y por su
+lógica inherente, no puede reclamar para sí los privilegios éticos y jurídicos
+que posee la procreación natural.
+
+38
+39
+40
+
+Fukuyama, F., «Transhumanism – Foreign Policy», https://foreignpolicy.com/2009/10/23/
+transhumanism/, Foreign Policy, October 29, 2009.
+Habermas, J., El futuro de la naturaleza humana. ¿Hacia una eugenesia liberal?, Traducción de R.S.
+Carbó, Paidós, Buenos Aires, 2004, p. 87.
+Laing, J., Oderberg, D., «Artificial Reproduction, the ‘Welfare Principle’, and the Common
+Good», Medical Law Review, 13, n. 3 (2005), pp. 328-56.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+339
+
+JORGE NICOLÁS LAFFERRIERE
+
+III.3. La Beneficencia Procreativa y la cuestión del inicio de la vida humana
+Un segundo aspecto decisivo para la valoración del TH en relación a la
+pretensión de diseñar genéticamente la descendencia es el referido al inicio
+de la vida humana. En efecto, Savulescu y Kahane reconocen que uno de los
+presupuestos de la BP es que no hay una violación de la igualdad porque el
+descarte de embriones no supone el descarte de personas. Afirman que si los
+embriones fueran personas, entonces la BP sería discriminatoria, pero entonces todo el proceso de FIV y DGP con selección genética, incluso para eliminar enfermedades, sería injustificable41.
+Este presupuesto es importante porque, aun presuponiendo una limitación de las tecnologías reproductivas que respete la originalidad de la transmisión de la vida humana, la posibilidad de conocer la dotación genética del ser
+humano durante la etapa que transcurre desde la fecundación hasta el nacimiento abre una posibilidad de intervenir en el proceso de generación de una
+vida. Esta intervención no sería ya en el plano de la determinación de la configuración genética del nuevo ser, sino en la selección por descarte de los que
+no reúnan características deseadas. La rutinización del diagnóstico prenatal42
+y la consiguiente expansión del aborto selectivo de personas con discapacidad
+luego de un resultado adverso en aquellos países donde el aborto es legal, dan
+cuenta de esta presión y tendencia eugenésica.
+Es un tema que ha sido sumamente debatido. En todo caso, en esta instancia
+quisiera traerlo a colación al solo efecto de remarcar que se trata de un presupuesto fundamental para que se generen las condiciones jurídicas favorables a una
+pretensión de modificar genéticamente a la descendencia. Personalmente, adhiero a la postura que sostiene que el embrión humano, desde la fecundación, es
+persona y merece la protección jurídica correspondiente a su dignidad personal43.
+La cuestión es importante porque autores como Sandel que critican las
+biotecnologías de perfeccionamiento humano, no se oponen a una regulación
+estricta de algunas investigaciones con células madre embrionarias por su potencial terapéutico44. Para Sandel, «los embriones no son inviolables, pero
+
+41
+42
+43
+44
+
+Savulescu, J., Kahane, G., Understanding Procreative Beneficence, op. cit., p. 599.
+Suter, S. M., «The Routinization of Prenatal Testing», American Journal of Law & Medicine, 28
+(2002), pp. 233-70.
+Lafferriere, Implicaciones jurídicas del diagnóstico prenatal. El concebido como hijo y paciente, op. cit.,
+pp. 161-168.
+Sandel, Contra la perfección. La ética en la era de la ingeniería genética, op. cit., p. 194.
+
+340
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+tampoco son objeto a nuestra disposición»45. Según este autor, ellos merecen
+respeto, aunque no absoluto: «respetar los bosques antiguos no significa que
+no se pueda derribar nunca un árbol para fines humanos»46. Esta comparación
+desconoce la inviolable dignidad de cada vida humana. Este tipo de abordaje
+conduce a una relativización de la dignidad humana, que justamente es el principio fundamental que está en juego. Esa dignidad se reconoce al ser humano
+por el solo hecho de ser tal. No puede estar sujeta a condiciones, o etapas de
+desarrollo, o al interés general. Desde el momento en que surge un nuevo individuo de la especie humano tenemos que reconocerle la dignidad personal47.
+La fecundación marca el punto de inicio de ese nuevo organismo vivo, de ese
+nuevo individuo humano, de un nuevo cuerpo. Los desarrollos biotecnológicos que he explicado anteriormente prueban cuán decisivas son, genéticamente, las primeras fases de la vida del embrión para toda la existencia de una
+persona. Hay una continuidad innegable en la vida humana, que comienza en
+la fecundación.
+Desde lo jurídico, esta realidad se plasma sobre todo en las normas jurídicas que protegen la vida, tanto dentro como fuera del seno materno. Relativizar
+el deber de respeto de la vida humana en la etapa prenatal deja abierta la puerta a
+la posibilidad de una opción por evitar el nacimiento de una persona con características genéticas no deseadas, en convergencia con el objetivo del TH.
+IV. Balance final sobre transhumanismo y tecnologías
+reproductivas a la luz de la dignidad humana
+
+El TH plantea numerosos y complejos desafíos ético-jurídicos. En lo que
+concierne a las iniciativas tendientes a buscar la mejor descendencia posible a
+través de las biotecnologías, la cuestión decisiva se encuentra en comprender
+cuáles son los alcances de la libertad de las personas en el campo de la procreación y el estatuto jurídico del ser humano en la etapa prenatal.
+Hemos visto que el TH encuentra en el principio de BP un fundamento
+teórico para la pretensión de diseñar las características genéticas de la descendencia, pero ello reposa en la suposición de que el recurso a las técnicas de
+
+45
+46
+47
+
+Ibid., p. 191.
+Ibid., p. 192.
+Aznar, J., Tudela, J., «Bioethics of Assisted Reproductive Technology», Innovations In Assisted
+Reproduction Technology, Nidhi Sharma (ed.), IntechOpen, London, 2020, pp. 1-19.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+341
+
+JORGE NICOLÁS LAFFERRIERE
+
+procreación artificial en nada se diferencia de la procreación natural y que la
+libertad reproductiva comprende un amplio abanico de herramientas para buscar el mejor hijo posible, que incluyen la posibilidad de intervenir en el proceso
+generativo y aún descartar la vida ya concebida mientras no haya nacido.
+Tal visión, en última instancia, está basada en la concepción de la dignidad como autonomía absoluta como motor y criterio valorativo único para
+todo desarrollo biotecnológico48. Esta postura termina considerando a la vida
+humana como mero material biológico disponible, procesable en función de
+los parámetros de una optimización performativa49, sin ofrecer criterios fuertes y objetivos para colocar un cauce a esa pretensión de modelar las características de la descendencia. La autonomía, entendida como total emancipación
+y autolegislación50, no ofrece criterios para valorar estas aplicaciones, salvo el
+criterio de la propia autonomía. Las únicas intervenciones reprochables serían las que limitaran la propia autonomía. Así, si el embrión no es persona
+y la autonomía de los requirentes de la técnica es la que rige en esta materia,
+no habría razones para impedir que unos padres pretendan concebir un hijo
+con «mejoras físicas» que potencien su performance deportiva, militar, social,
+económica o de cualquier tipo.
+Frente a esa postura, para responder a los desafíos jurídicos planteados
+por el TH, se requiere partir de una noción ontológica de la dignidad, reconocida a todo ser humano desde su concepción. Una tal concepción ontológica
+permite dar respuestas jurídicas de fondo a los desafíos de este movimiento
+TH, tanto en lo que respecta a la necesidad de limitar la libertad procreadora
+como en cuanto al reconocimiento de la personalidad del embrión desde el
+momento de la concepción. Ello supone reconocer que «cualquier perfección
+que corresponda al ser humano-persona, como es el caso de la alegada dignidad, habrá de tener su raíz o fundamento originario en el ser (esse) del que el
+hombre participa dentro de los límites de su esencia»51.
+
+48
+49
+50
+
+51
+
+Bostrom, N., «Dignity and Enhancement», Contemporary Readings in Law and Social Justice, v.
+1, n. 2 (2009), pp. 84-115.
+Padrón, H. J., «La edición genética humana. El enhancement y la intervención terapéutica»,
+Vida y Ética, 18, n. 2 (2017), pp. 35-56.
+Massini Correas, C. I., «¿Existe un principio ético de autonomía? Consideraciones a partir de
+la bioética contemporánea», Anuario Da Facultade de Dereito Da Universidade Da Coruña, n. 8
+(2004), pp. 487-504.
+Massini-Correas, C.I. Dignidad humana, derechos humanos y derecho a la vida. Ensayos sobre la
+contemporánea ética del derecho, Instituto de Investigaciones Jurídicas / Universidad Autónoma de
+México, México, 2020, p. 10.
+
+342
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+La libertad reproductiva, en tanto se orienta a dar origen a un nuevo ser
+humano, debe respetar las exigencias de justicia que emanan de originalidad
+de la transmisión de la vida humana y de la dignidad inherente al nuevo ser
+humano que se busca engendrar, lo que conlleva garantizar condiciones objetivas, desprovistas de control y manipulación humana, que aseguren la gratuidad y el carácter de don que tiene cada nueva vida desde el momento mismo
+de la concepción. A diferencia de la concepción que identifica la dignidad con
+la autonomía, si la dignidad es reconocida a cada ser humano por el solo hecho
+de ser tal, se garantiza la igualdad de todos sin tomar en cuenta su estadio de
+desarrollo o su capacidad de autodeterminación. De otra forma, entender la
+dignidad como autonomía en el plano jurídico supone consagrar el criterio del
+más fuerte por sobre el más débil, al resultar tutelados únicamente los derechos de quien puede ejercerlos autónomamente.
+La dignidad de la persona entra en conflicto con la visión de la beneficencia procreativa tal como es propuesta por Savulescu porque, como dice
+Andorno, «la conciencia misma de ser ‘persona’ (es decir, «sujeto») se diluye
+en aquel que se ve a sí mismo, ya no como el fruto de un don inefable y gratuito, sino como un ‘producto’ resultante de una selección deliberada hecha por
+terceros y en la que él ha resultado favorecido por la sola circunstancia de que
+poseía ciertas cualidades»52.
+Es en torno a la posibilidad de discriminación y eliminación sistemática de
+las personas con discapacidad que la cuestión de la dignidad se presenta como
+más decisiva53. En efecto, gracias a las más modernas técnicas de diagnóstico
+podemos diagnosticar en las más tempranas etapas de la existencia la presencia
+de condiciones que pueden dar lugar a una discapacidad. Así, si entendemos a la
+dignidad como pura autonomía, resultan legitimadas las intervenciones orientadas a poner fin a esos nuevos seres humanos. Ello conduce a una nueva eugenesia, injusta y contraria a la dignidad de las personas con discapacidad, discriminadas de la forma más radical por la eliminación de su vida. En cambio, bajo
+la idea de una dignidad humana reconocida por el solo hecho de ser, podemos
+encontrar un cauce seguro para respetar a los más vulnerables y enviar un mensaje de inclusión hacia todas las personas, con independencia de sus condiciones.
+
+52
+53
+
+Andorno, R., «Técnicas de reproducción y nuevos poderes desmesurados sobre la descendencia», Prudentia Iuris, 78 (2014), p. 157.
+Laing, J., «Information Technology and Biometric Databases: Eugenics and Other Threats to
+Disability Rights», Journal of Legal Technology Risk Management, 2, n. 1 (2008), 9-35.
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+343
+
+JORGE NICOLÁS LAFFERRIERE
+
+Además, una amplia legitimación de las biotecnologías puede dar lugar al
+surgimiento de nuevas y coercitivas formas de eugenesia que introducen discriminaciones sociales. Por ello, sostengo que existe un interés público sustantivo en regular la aplicación de biotecnologías vinculadas con la procreación
+humana en razón de esa dignidad y del bien común.
+En síntesis, el reconocimiento jurídico de la dignidad personal del embrión humano y una clara limitación de la intermediación técnica en la procreación son condiciones necesarias para unas biotecnologías que se coloquen
+verdaderamente al servicio de la persona humana y su dignidad y derechos
+fundamentales.
+
+V. Referencias bibliográficas
+ACOG Committee, «Committee Opinion No. 640. Cell-Free Dna Screening for
+Fetal Aneuploidy», Obstetrics & Gynecology, 126, n. 3 (2015), pp. 31-37.
+Andorno, R., «Técnicas de reproducción y nuevos poderes desmesurados sobre la
+descendencia», Prudentia Iuris, 78 (2014), pp. 155-59.
+Aparisi Miralles, A., «El principio de la dignidad humana como fundamento de un
+bioderecho global», Cuadernos de Bioética, 24, n. 81 (2013), pp. 201-222.
+Asla, M., «Transhumanismo», Diccionario Interdisciplinar Austral, Claudia Vanney,
+Ignacio Silva y Juan Francisco Franck (eds.), Universidad Austral, Buenos Aires, 2020, pp. 1-26, http://dia.austral.edu.ar/index.php?title=Transhumanismo
+&action=mpdf.
+Aznar, J., Tudela, J., «Bioethics of Assisted Reproductive Technology», Innovations In Assisted Reproduction Technology, Nidhi Sharma (ed.), IntechOpen, London, 2020, pp. 1-19.
+Balaban, B., Brison, D., Calderón, G., Catt, J., Conaghan, J. Cowan, L., Ebner,
+T. et al., «The Istanbul Consensus Workshop on Embryo Assessment: Proceedings of an Expert Meeting», Human Reproduction, 26, n. 6 (2011), pp. 1270-83.
+Bostrom, N., «The Transhumanist FAQ», https://www.nickbostrom.com/views/
+transhumanist.pdf, 2003.
+Bostrom, N., «Dignity and Enhancement», Contemporary Readings in Law and Social Justice, v. 1, n. 2 (2009), pp. 84-115.
+Bourne, H., Douglas, T., Savulescu, J., «Procreative Beneficence and in Vitro
+Gametogenesis», Monash Bioethics Review, 30, n. 2 (2012), pp. 29-48.
+Contardi, S.L., «Bebés de tres padres: en Gran Bretaña permiten técnicas de reemplazo mitocondrial para su aplicación en pacientes», https://centrodebioetica.
+org/bebes-de-tres-padres-en-gran-bretana-permiten-tecnicas-de-reemplazomitocondrial-para-su-aplicacion-en-pacientes/, junio 5, 2017 [25/07/2020].
+
+344
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+TRANSHUMANISMO, REGULACIÓN DE LAS TECNOLOGÍAS REPRODUCTIVAS Y DIGNIDAD HUMANA
+
+Dondorp, W., De Wert, G., Bombard, Y., Bianchi, D.W., Bergmann, C. et al.,
+«Non-Invasive Prenatal Testing for Aneuploidy and beyond: Challenges of
+Responsible Innovation in Prenatal Screening», European Journal of Human
+Genetics, 23, n. 11 (2015), pp. 1438-50.
+Fukuyama, F., «Transhumanism – Foreign Policy», https://foreignpolicy.
+com/2009/10/23/transhumanism/, Foreign Policy, October 29, 2009.
+Habermas, J., El futuro de la naturaleza humana. ¿Hacia una eugenesia liberal? (trad. de
+R.S. Carbó), Paidós, Buenos Aires, 2004.
+Handyside, A. H., Kontogianni, E. H., Hardy, K., Winston, R. M. L., «Pregnancies from Biopsied Human Preimplantation Embryos Sexed by Y-Specific
+DNA Amplification», Nature, 344, n. 6268 (1990), pp. 768-770.
+Lafferriere, J.N., Implicaciones jurídicas del diagnóstico prenatal. El concebido como hijo
+y paciente, EDUCA, Buenos Aires, 2011.
+Laing, J., «Information Technology and Biometric Databases: Eugenics and Other
+Threats to Disability Rights», Journal of Legal Technology Risk Management, 2,
+n. 1 (2008), 9-35.
+Laing, J., Oderberg, D., «Artificial Reproduction, the ‘Welfare Principle’, and the
+Common Good», Medical Law Review, 13, n. 3 (2005), pp. 328-356.
+Massini Correas, C. I., «¿Existe un principio ético de autonomía? Consideraciones a partir de la bioética contemporánea», Anuario Da Facultade de Dereito Da
+Universidade Da Coruña, n. 8 (2004), pp. 487-504.
+Massini Correas, C. I., Dignidad humana, derechos humanos y derecho a la vida. Ensayos sobre la contemporánea ética del derecho, Instituto de Investigaciones Jurídicas
+/ Universidad Autónoma de México, México, 2020.
+Padrón, H. J., «La edición genética humana. El enhancement y la intervención
+terapéutica», Vida y Ética, 18, n. 2 (2017), pp. 35-56.
+Parens, E., Asch, A., «The Disability Rights Critique of Prenatal Genetic Testing Reflections and Recommendations», The Hastings Center Report, 29, n. 5
+(1999), pp. 21-22.
+«Regulating Preimplantation Genetic Diagnosis: The Pathologization Problem»,
+Harvard Law Review, 118, n. 8 (2005), pp. 2770-91.
+Reis, A., Homblower, B., «CRISPR/Cas9 & Targeted Genome Editing: New Era
+in Molecular Biology», https://www.neb.com/tools-and-resources/featurearticles/crispr-cas9-and-targeted-genome-editing-a-new-era-in-molecularbiology, NEB Expressions, I, 2014.
+Sandel, M., Contra la perfección. La ética en la era de la ingeniería genética (trad. de R.
+Vilà Vernis), Marbot Ediciones, Barcelona, 2007.
+Savulescu, J., «Procreative Beneficence: Why We Should Select the Best Children», Bioethics, 15, n. 5-6 (2001), pp. 413-426.
+Savulescu, J., Kahane, G., «The Moral Obligation to Create Children with the
+Best Chance of the Best Life», Bioethics, 23, n. 5 (2009), pp. 274-290.
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+345
+
+JORGE NICOLÁS LAFFERRIERE
+
+Savulescu, J., Kahane, G., «Understanding Procreative Beneficence», Oxford
+Handbook of Reproductive Ethics, Oxford University Press, Oxford, 2016.
+Suter, S. M., «The Routinization of Prenatal Testing», American Journal of Law &
+Medicine, 28 (2002), pp. 233-270.
+Suter, S. M., «The Tyranny of Choice: Reproductive Selection in the Future»,
+Journal of Law and the Biosciences, 5, n. 2 (2018), pp. 262-300.
+
+346
+
+PERSONA Y DERECHO / VOL. 84 / 2021/1
+
+

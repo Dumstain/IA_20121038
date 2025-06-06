@@ -1,0 +1,1010 @@
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Revista de Bioética y Derecho
+Perspectivas Bioéticas
+www.bioeticayderecho.ub.edu – ISSN 1886 –5887
+
+DOSIER GESTACIÓN POR SUSTITUCIÓN, CON OCASIÓN DE LA
+NUEVA SENTENCIA DEL TS ESPAÑOL DE 31 DE MARZO DE 2022
+
+La constitucionalización de los comités de bioética
+La constitucionalització dels comitès de bioètica
+The constitutionalization of Bioethics Committees
+MANUEL JESÚS LÓPEZ BARONI *
+
+* Manuel Jesús López Baroni. Profesor titular de Filosofía del Derecho, Universidad Pablo de
+Olavide (España). Email: mjlopbar1@upo.es. ORCID: https://orcid.org/0000-0002-2722-8297.
+
+Copyright (c) 2022 Manuel Jesús López Baroni
+Esta obra está bajo una licencia de Creative Commons Reconocimiento-No Comercial-Sin Obra Derivada
+4.0 Internacional.
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Resumen
+Una reciente sentencia del Tribunal Supremo ha basado el fallo en un informe del Comité de
+Bioética de España sobre la maternidad subrogada, lo que coincide con un creciente debate acerca
+de la necesidad de incorporar este tipo de comités a la Carta Magna de cada país. Sin embargo, su
+constitucionalización plantea no pocos problemas, tanto por la posible composición de dicho
+órgano como por la naturaleza de sus informes y su relación con el poder legislativo y el judicial.
+Para analizar esta compleja cuestión, y empleando como hilo vertebrador la resolución judicial
+dictada sobre la maternidad subrogada, estudiaremos tres alternativas y su reflejo en dicha
+temática, en concreto: a) como “juego de suma cero” versus “reparto de cromos”; b) como
+“igualdad de oportunidades versus “igualdad de resultados”: c) como consecuencia de la Cuarta
+Revolución Industrial.
+Palabras clave: maternidad subrogada; comité de bioética; constitucionalización; tribunal
+supremo.
+
+Resum
+Una recent sentència del Tribunal Suprem ha basat la fallada en un informe del Comitè de Bioètica
+d'Espanya sobre la maternitat subrogada, la qual cosa coincideix amb un creixent debat sobre la
+necessitat d'incorporar aquest tipus de comitès a la Carta Magna de cada país. No obstant això, la
+seva constitucionalització planteja no pocs problemes, tant per la possible composició d'aquest
+òrgan com per la naturalesa dels seus informes i la seva relació amb el poder legislatiu i el judicial.
+Per a analitzar aquesta complexa qüestió, i emprant com a fil vertebrador la resolució judicial
+dictada sobre la maternitat subrogada, estudiarem tres alternatives i el seu reflex en aquesta
+temàtica, en concret: a) com a “joc de suma zero” versus “repartiment de cromos”; b) com a
+“igualtat d'oportunitats versus “igualtat de resultats”: c) a conseqüència de la Quarta Revolució
+Industrial.
+Paraules clau: maternitat subrogada; comitè de bioètica; constitucionalització; tribunal suprem.
+
+Abstract
+A recent ruling by the Supreme Court has based the ruling on a report by the Spanish Bioethics
+Committee on surrogate motherhood, which coincides with a growing debate about the need to
+incorporate this type of committee into the Magna Carta of each country. However, its
+constitutionalization poses many problems, both due to the possible composition of said body and
+the nature of its reports and its relationship with the legislative and judicial powers. In order to
+analyze this complex issue, and using the judicial resolution issued on surrogate motherhood as
+the backbone, we will study three alternatives and their reflection on said theme, specifically: a)
+as a "zero-sum game" versus "distribution of cards"; b) as “equal opportunities versus “equal
+results”: c) as a consequence of the Fourth Industrial Revolution.
+Keywords: surrogate motherhood; bioethics committee; constitutionalization; supreme court.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 126
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+1. Introduccion
+Una reciente sentencia del Tribunal Supremo español sobre la maternidad subrogada aporta una
+relevante novedad respecto a otras anteriores relacionadas, dado que se apoya sustancialmente
+en un informe del Comité de Bioética nacional (CBE, 2017).1 En concreto, los párrafos que nos
+interesan son suficientemente ilustrativos acerca del peso de dicho documento en la resolución
+judicial:
+El contrato de gestación por sustitución suscrito en el caso objeto del recurso
+tiene las características comunes a estos contratos, expuestas tanto en dicho Informe de
+la Relatora Especial como en el Informe del Comité de Bioética de España sobre los
+Aspectos Éticos y Jurídicos de la Maternidad Subrogada de 2017 (…) Además, como
+expresan tanto el Informe de la Relatora Especial como del Comité de Bioética de
+España, la lógica perversa de un mercado que tenga por objeto la gestación subrogada
+de niños favorece que estos contratos se celebren y ejecuten cada vez con más frecuencia
+en aquellos Estados en los que se otorgan mayores prerrogativas a los comitentes y,
+correlativamente, se acentúe la vulneración de la autonomía personal, la integridad
+física y moral y, en definitiva, la dignidad de la mujer gestante. (…) como concluye el
+Informe del Comité de Bioética de España de 2017, el deseo de una persona de tener un
+hijo, por muy noble que sea, no puede realizarse a costa de los derechos de las personas.
+(…) El Informe del Comité de Bioética pone de relieve la incoherencia que supone el
+contraste entre esta regulación legal y que en la práctica no existan obstáculos a
+reconocer el resultado de una gestación por sustitución comercial en la que se han
+vulnerado los más elementales derechos fundamentales de la madre gestante y del niño,
+si ha tenido lugar en el extranjero. (…). 2
+
+Unos años antes se había pronunciado de idéntica manera, pero sin apoyarse en dictámenes
+externos y con un matiz relevante: se falló por cinco votos contra cuatro.3 A diferencia de lo que
+ha sucedido ahora, el debate trascendió entonces el plano jurídico y entró de lleno en una cuestión
+de principios, esto es, no discutieron solo sobre si la normativa española era aplicable en el
+extranjero sino si la institución era inmoral en sí misma, y, por ende, inconcebible jurídicamente.
+
+1
+
+El único voto discrepante del informe del Comité de Bioética coincide sustancialmente con los cuatro votos discrepantes de la
+
+sentencia del Tribunal Supremo de 2014. En esencia: la maternidad subrogada no es inmoral en sí misma.
+2 Tribunal
+
+Supremo. Sala de lo Civil. Sentencia del Pleno 277/2022, de 31 de marzo. Recurso 907/2021.
+
+3 Tribunal
+
+Supremo. Sala de lo Civil. Sentencia núm. 835/2013, de 6 de febrero de 2014. RJ, 2014/833.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 127
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Sin embargo, cuatro magistrados del Tribunal Supremo, sobre cinco, estuvieron en su momento a
+favor de esta “aberración moral”.4
+Para centrar adecuadamente el debate es preciso recordar que el Comité de Bioética de
+España es un órgano legal, no constitucional, y el informe emitido contra la maternidad subrogada
+fue de índole espontánea, esto es, no se dictó como consecuencia de un requerimiento del poder
+político ni a raíz de un mandato concreto.
+Acotados los hechos, nos planteamos las siguientes preguntas: ¿cuál es relación que hay o
+debe haber entre los dictámenes del Comité de Bioética español y el poder judicial?; ¿se atrevería
+el Comité de Bioética a dictar a posteriori un informe abiertamente contrario a una sentencia del
+Tribunal Supremo (v. gr., a favor de la maternidad subrogada?): ¿se atrevería el Tribunal Supremo
+a dictar una sentencia abiertamente contraria a un informe del Comité de Bioética (v. gr., a favor
+de la maternidad subrogada)?; ¿se exceden de sus competencias ambos organismos cuando
+condenan apriorísticamente, como si de un crimen contra la humanidad se tratase, una institución
+que podría ser perfectamente legal en España y aun en la Unión Europea?; ¿admitiríamos que el
+Comité de Bioética se pronunciase espontánea, abierta y rotundamente contra la fecundación in
+vitro, la clonación terapéutica o la investigación con células madre de origen embrionario? (contra
+la eutanasia y la interrupción voluntaria del embarazo por plazos ya lo han hecho); ¿admitiríamos
+que el Tribunal Supremo aprovechase el análisis de un caso concreto para deslegitimar
+apriorísticamente esas mismas temáticas?
+En puridad, el Comité de Bioética, dado que es un organismo oficial, solo debería
+pronunciarse a requerimiento de quien goza de la prerrogativa legal para preguntar (v. gr., los
+poderes públicos). Por ello, cuando lo hace por propia iniciativa, algo que la ley permite, surgen
+incómodas preguntas, como por qué no pronunciarse espontáneamente sobre, por ejemplo, el
+
+4
+
+De hecho, la frase clave es la siguiente: “los avatares en la técnica de reproducción asistida vulneren la dignidad de la mujer gestante
+
+y del niño, mercantilizando la gestación y la filiación, `cosificando´ a la mujer gestante y al niño, permitiendo a determinados
+intermediarios realizar negocios con ellos, posibilitando la explotación del estado de necesidad en que se encuentran mujeres jóvenes
+y creando una especie de `ciudadanía censitaria´ en la que solo quienes disponen de elevados recurso económicos pueden establecer
+relaciones paterno-filiales vedadas a la mayoría de la población”. Cinco magistrados estaban de acuerdo con esta posición y cuatro en
+contra en la sentencia de 2014, donde además no se disponía del contrato y tampoco se sabía si los dos varones comitentes habían
+aportado material biológico. Los cuatro discrepantes consideraron que sus cinco compañeros habían ido más allá del ámbito de la
+estricta casación: “Sin duda, la sentencia de la que se discrepa tutela la excepción del orden público de una forma preventiva, más allá
+de lo que resulta del supuesto sometido a la consideración de la Sala mediante el recurso de casación” (las cursivas son mías). En la
+sentencia de 2022, a pesar de que alguna frase puede entenderse contra la maternidad subrogada de forma generalizada, se centraron
+en lo abusivo que resultaba el contrato. De hecho, un magistrado que votó a favor de la maternidad subrogada en 2014 votó en contra
+del contrato de maternidad subrogada discutido en 2022 (fue el único de los cuatro discrepantes de 2014 que participó en la sentencia
+de 2022).
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 128
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+desarrollo de células humanas en embriones de mono (con apoyo, por cierto, de instituciones
+católicas5). Esto es, ¿por qué a veces sí y otras no?
+Pues bien, todas estas cuestiones pueden refundirse en dos: a) ¿es oportuno otorgar el
+rango de órgano constitucional al Comité de Bioética modificando ad hoc nuestra Carta Magna?;
+b) Y en este caso, ¿en qué medida sus informes podrían influir, condicionar o refutar tanto al poder
+legislativo como al poder judicial?
+En los últimos años, debido a la complejidad que está alcanzando la tecnociencia, se está
+creando una corriente de opinión a favor de incluir a los Comités de Bioética nacionales en la
+Constitución de cada país.6 Sin embargo, no son pocas las objeciones que podemos hallar, tanto
+por su composición como por la naturaleza de sus actos.
+Pues bien, esta cuestión será analizada en el presente trabajo empleando como material
+principal la sentencia y el documento que hemos citado sobre la maternidad subrogada, en
+concreto, como “juego de suma cero” versus “reparto de cromos”; como “igualdad de
+oportunidades” versus “igualdad de resultados”; y como consecuencia de la Cuarta Revolución
+Industrial.7
+
+2. Como “juego de suma cero” versus “reparto de cromos”
+Para poder valorar la oportunidad de incorporar a la Constitución un Comité de Bioética
+nacional debemos analizar qué ha sucedido en estos últimos años. En efecto, en 2007 se
+aprobó la creación del Comité de Bioética de España, cuyas características, en esencia,
+son: a) sus miembros son elegidos mayoritariamente por el partido en el Gobierno;8 b)
+pueden emitir informes por propia iniciativa o a petición.
+
+5
+
+Véase Ansede, 2021.
+
+6
+
+El artículo 99 de la Constitución chilena de 2022 recogía la creación de un Comité Nacional de Bioética. Es razonable pensar que si
+
+vuelve a plantearse una reforma constitucional (esta ha fracasado), dicho artículo perviva.
+7
+
+Antes de descender al caso concreto quiero manifestar que, en la medida en que participé en la elaboración de un documento del
+
+Observatorio de Bioética y Derecho sobre esta misma materia (Casado, Navarro et al., 2019), estoy sustancialmente de acuerdo tanto
+sobre la sentencia como con el informe del Comité de Bioética. Pero creo que es necesario reflexionar sobre los numerosos problemas
+que plantea esta dualidad, Poder Judicial/Comité de Bioética, abstrayéndonos de la posibilidad de coincidir o no con el contenido de
+sus resoluciones o informes (hoy es sobre la maternidad subrogada y mañana puede ser sobre cualquier otra cuestión bioética
+controvertida). De ahí la relevancia de analizar las implicaciones de una hipotética constitucionalización de este tipo de comités.
+8 Seis
+
+miembros los propone el Gobierno (determinados ministerios) y los otros seis se proponen por las Comunidades Autónomas.
+
+Debemos tener en cuenta que, de diecisiete comunidades, catorce están gobernadas por el Partido Popular o por el PSOE, esto es, los
+mismos partidos que se alternan en el gobierno estatal. Véase el artículo 79 de la Ley 14/2007, de 3 de julio, de Investigación
+Biomédica.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 129
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Con objeto de aprehender su funcionamiento debemos recordar que en nuestro país se
+alternan la socialdemocracia (PSOE) y la democracia cristiana (PP), de ahí que el
+contenido de los informes emitidos por el Comité sintonice, en las materias no
+estrictamente técnicas, como el aborto o la eutanasia, con la ideología de ambos partidos.
+Si en la judicatura se simplifica dividiendo a los magistrados en progresistas y
+conservadores (eufemismo que muestra públicamente el grado de afinidad ideológica con
+los partidos citados), en bioética podríamos clasificarlos en laicistas y católicos. Como
+sucede con todos los reduccionismos, se omiten las enormes diferencias que puede haber
+entre los laicistas (v. gr., socialdemócratas, marxistas, neoliberales, etc.) y entre los
+propios católicos (más o menos cercanos a los dogmas de la Iglesia católica, lo que no
+obsta la coexistencia con creyentes laicistas).
+Sin embargo, y a pesar de esta simplificación, por la que prácticamente habría que pedir
+perdón, el contenido de sus informes no puede ser comprendido abstrayéndonos de la
+ideología de los miembros de dicho Comité. El caso más representativo es un informe
+emitido en 2009 a favor de la interrupción del embarazo (ley de plazos), aprobado por
+once votos a uno,9 y la emisión de otro informe cinco años después con prácticamente el
+mismo resultado, solo que en contra.10 Este vaivén solo puede ser entendido si se observa
+la composición del comité en una y otra ocasión.11
+La ley parece aprobada para que el partido que ostente el poder disponga de su propio
+Comité de Bioética, esto es, para que el Gobierno entrante nombre a miembros afines a su
+ideología (la duración del mandato es de cuatro años, prorrogables por otros cuatro,
+siguiendo nuestro patrón electoral de las últimas décadas). Parece ser que nadie cayó en
+la cuenta de que las legislaturas pueden acortarse por diversos motivos, abocando al
+Gobierno entrante a convivir con un Comité de Bioética nombrado por el Gobierno
+
+9 “La
+
+opción por la ampliación de la interrupción voluntaria del embarazo es la que conviene a un Estado laico y neutral frente a las
+
+discrepancias derivadas de las distintas creencias de los ciudadanos. (…). La regulación de la interrupción voluntaria del embarazo
+respeta la libertad de la mujer y no obliga a nadie a abortar.” (CBE, 2009:20).
+10
+
+“Este Comité valora positivamente el cambio de modelo que se establece en el Anteproyecto frente al modelo vigente, al considerar
+
+que permitir el aborto durante las primeras catorce semanas de gestación, sin alegar causa que lo justifique, supone una desprotección
+absoluta del ser humano. Dicha desprotección, además, se produciría durante una etapa extensa de su desarrollo, que incluye todo el
+periodo embrionario y una parte sustancial del periodo fetal.” (CBE, 2014:6).
+11 Así
+
+describía la primera presidenta del Comité de Bioética de España a la hornada sucesora: “La característica común a todos los
+
+miembros del nuevo Comité es su filiación confesional y el conservadurismo recalcitrante e impenitente en cuanto a las cuestiones
+más conflictivas de la bioética. (…) todo hace pensar que el nuevo Comité está hecho a medida para legitimar las propuestas en las que
+ya está trabajando el Ministerio de Justicia para llevar a cabo, entre otros cambios legislativos, la modificación de la ley del aborto de
+2010 y retroceder a criterios incluso más restrictivos que los que teníamos con la ley de 1985.” (Camps, 2013).
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 130
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+saliente. Eso es lo que ha sucedido en tiempos recientes a raíz de la moción de censura
+presentada en 2018 por el socialdemócrata Sánchez contra el democristiano Rajoy.
+El resultado de este inesperado rebote es que el Comité de Bioética se ha convertido en
+un mecanismo de oposición a las políticas públicas laicistas, hasta el punto de que la ley
+más importante sobre bioética aprobada en esta legislatura, la ley de la eutanasia, no le
+fue consultada. Por eso una periodista, no precisamente de un medio de izquierdas,12
+preguntó sorprendida al presidente del Comité de Bioética de España: “Pero, ¿no cree que
+es difícil entender que un Comité de Bioética no informe de una ley de eutanasia?” (Valle,
+2022). Era la segunda vez que lo preguntaba. El significativo silencio del Gobierno
+socialista no evitó que el Comité de Bioética se pronunciara por propia iniciativa sobre la
+eutanasia activa, como cabía esperar, abiertamente en contra.13 Básicamente, el contenido
+de su informe es un firme alegato contra la eutanasia activa, no exento de ocasional
+demagogia: “Responder con la eutanasia a la `deuda´ que nuestra sociedad ha contraído
+con nuestros mayores tras tales acontecimientos (…)”, (CBE, 2020:74), (Nota: se referían
+a la pandemia, con el trágico resultado que todos conocemos, pero que obviamente no
+venía al caso). Con la tramitación de la ley que aprobaba el matrimonio de personas del
+mismo sexo sucedió algo similar, pero con el Consejo General del Poder Judicial (el Comité
+de Bioética no existía entonces): emitieron un informe contrario a la ley a pesar de que el
+Gobierno socialista expresamente recordó que no se lo había pedido.14
+En 2014, el CGPJ sí fue expresamente consultados para pronunciarse sobre la derogación
+de la ley del aborto. Empleando una “metodología estricta y rotundamente jurídica”, no
+vieron nada extraño en que una mujer no pudiese abortar ni siquiera en los casos de
+
+12 Valle,
+
+Soledad. “Entrevista a Federico de Montalvo. Expresidente del Comité de Bioética de España.” El Mundo. 2022. Véase también
+
+la declaración que avisa que van a posicionarse, aunque no se lo hayan pedido (CBE, 2020a).
+13 En
+
+el informe se emplean expresiones como “insólito derecho a morir auxiliado por el Estado” (p. 19), y que “Resultaría extraño que,
+
+desde una perspectiva estrictamente ético-legal, pudiera aprobarse en los próximos meses una norma legal que pretenda no solo
+despenalizar la eutanasia y/o auxilio al suicidio sino, más allá, reconocer un verdadero derecho a morir que, además, revista la
+condición de prestación con cargo al sistema público de salud, y que sobre dicho asunto no se pronunciara este Comité. Es por ello por
+lo que se ha redactado y aprobado este informe” (CBE, 2020b:4). No hay ninguna reflexión autocrítica acerca de por qué no se les
+consultó.
+14
+
+Con afirmaciones como “el matrimonio entre personas del mismo sexo es inconstitucional (…)”, o “es inconstitucional que una pareja
+
+homosexual adopte niños”. (CGPJ, 2005). Dictamen del Consejo General del Poder Judicial de 28 de enero de 2005. Por pudor, no vamos
+a repetir la equiparación entre matrimonio homosexual y matrimonio con animales que realizó su Comisión. El matrimonio de
+personas de mismo sexo fue declarado constitucional por el Tribunal Constitucional en su sentencia 198/2012. Hasta el momento, no
+consta que haya sucedido el apocalipsis moral y social que se describió en el Senado (Véase Diario de sesiones del Senado, Comisión
+de Justicia, 20 de junio de 2005).
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 131
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+malformación del feto (“constituye una opción del legislador”, CGPJ, 2014: 81), 15 aunque
+con votos discrepantes.16 La memoria que explicaba la contrarreforma sostenía,
+imaginamos que con cierto sarcasmo, que “La norma tiene un impacto de género
+positivo”.17 Este es nuestro patio y con estos mimbres hemos de lidiar.
+Cuando un parlamento democráticamente elegido aprueba una ley y una institución
+pública se pronuncia unánimemente en contra, como sucede con un modelo de suma cero,
+solo cabe pensar que dicha institución tiene un déficit de pluralismo y representatividad
+insalvable. Sin embargo, la otra opción, el reparto de cromos, esto es, que los dos
+principales partidos se repartan a sus miembros, nos abocaría a una situación parecida a
+la que sufre el Tribunal Constitucional, es decir, a la inacción por falta de una mayoría
+suficiente en los casos controvertidos socialmente. La ley del aborto lleva doce años
+impugnada ante dicho tribunal sin que se atisbe una resolución que proporcione la debida
+seguridad jurídica, y la causa es de naturaleza ideológica: la Constitución nada dice al
+respecto y la solución solo depende de quien logre una mayoría en dicho tribunal. Es
+razonable pensar que un Comité de Bioética nombrado con los mismos criterios, reparto
+de cromos, sería incapaz de emitir dictamen alguno en temáticas controvertidas. El
+resultado sería su paralización de facto, y por ende, su esterilidad como institución salvo
+en los casos estrictamente técnicos.
+Por eso, el pronunciamiento del Comité de Bioética contra la maternidad subrogada que
+ha servido de base a la sentencia del Tribunal Supremo hay que entenderlo desde la
+perspectiva de la doctrina de la Iglesia católica en bioética. Están en contra de dicha
+institución de la misma forma en que se posicionan contra el aborto o la eutanasia. Se trata
+de un comité elegido mayoritariamente por el mismo partido político que ha impugnado
+cualquier avance social que se haya producido en este país en los últimos cuarenta años,
+como la despenalización del aborto en los tres supuestos clásicos, la reproducción
+asistida, la clonación terapéutica, la investigación con células madre embrionarias, el
+
+15 Al menos reconocieron que “Se podría haber optado por la redacción de esta indicación siguiendo la regulación prevista en el
+
+modelo
+
+de 1985, al haber tenido el beneplácito del Tribunal Constitucional (…)” (CGPJ, 2014), lo que tácitamente indica que la contrarreforma
+devolvía a la situación previa a dicho año, esto es, a la época franquista.
+16 Una cuestión interesante planteada en el voto discrepante de Grande-Marlaska (2014) aludía a la oportunidad de pronunciarse sobre
+
+una norma cuando esta estaba impugnada ante el Tribunal Constitucional. Cabe plantearse lo mismo en el caso del Comité de Bioética:
+¿debe este pronunciarse sobre el contenido de una norma cuando esta ha sido impugnada ante el TC? Aun cuando la naturaleza del
+CGPJ y el CBE sea diferente, creo que es una cuestión sobre la que se ha de reflexionar.
+17
+
+Memoria del análisis del impacto normativo del anteproyecto de Ley Orgánica para la protección de la vida del concebido y de los
+
+derechos de la mujer embarazada. Ministerio de Justicia. 19 de diciembre de 2014.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 132
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+matrimonio de personas del mismo sexo, la ley de plazos de la interrupción del embarazo
+y, por último, la eutanasia activa.18 En nuestro país, cualquier normativa alejada del
+beneplácito de la Iglesia católica supone una confrontación jurídico/política que pende de
+un hilo, en concreto, del juego de negociaciones, transacciones y casualidades que en
+última instancia explican la composición de nuestro Tribunal Constitución.
+Otros informes del Comité de Bioética, aparentemente progresistas por cuanto amplían
+derechos, suponen un claro retroceso social. En efecto, si se reconoce el derecho de los
+menores a saber cuáles son sus orígenes biológicos en la reproducción in vitro (quién
+proporcionó el esperma), como proponen (CBE, 2020c), el resultado es que se perjudica
+a las parejas de lesbianas o a las mujeres sin varón que quieran ser madres (justo los
+colectivos a los que se les negaba la condición de “familia” en el recurso que la democracia
+cristiana interpuso contra la ley de reproducción asistida), dado que se elimina la figura
+del donante anónimo,19 con todo lo que ello conlleva en un país institucionalmente tan
+conservador como el nuestro (a corto plazo, reconocimiento de visita al menor, quién sabe
+si pensión de alimentos, derechos de sucesión, etc.);20 igualmente, si se extiende el
+derecho a la objeción conciencia, no ya a cualquier empleado de un centro sanitario, sino
+también a las instituciones que rigen los centros sanitarios, como también proponen (CBE,
+2021), el resultado es un boicot de facto a la ley de eutanasia, que no podrá aplicarse en
+amplios territorios del país (como sucede en Polonia con las mujeres que quieren abortar
+
+18
+
+Sentencias del Tribunal Constitucional 53/1985 de 11 de abril sobre el aborto y 1999/116, de 17 de junio, sobre la reproducción
+
+asistida; Reforma de 2003, en sentido restrictivo, de la Ley 35/1988, de Reproducción Asistida; impugnación ante el Tribunal
+Constitucional de la Ley 7/2003, de 20 de octubre, sobre la investigación en Andalucía con preembriones humanos no viables;
+sentencia del Tribunal Constitucional 198/2012, de 6 de noviembre de 2012, sobre el matrimonio homosexual. La ley de interrupción
+del embarazo mediante un sistema de plazos y la ley de eutanasia están pendientes de ser analizada por dicho tribunal. Si
+contemplamos esto desde una perspectiva histórica, podemos constatar cómo una parte de la sociedad española, sobrerrepresentada
+institucionalmente, no querría salir de la normativa de la España de los años setenta del siglo pasado.
+19
+
+Sobre el supuesto carácter progresista de determinadas instituciones internacionales, hemos de recordar que tanto la ONU como el
+
+Parlamento Europeo se pronunciaron en su momento contra la clonación terapéutica, por lo que no es de extrañar que también estén
+contra el anonimato de los donantes de esperma u óvulos. (sobre la Declaración de la ONU sobre Clonación Humana, de 8 de marzo de
+2005, véase Urruela, 2008, y sobre el Parlamento Europeo, véase la Resolución de 7 de mayo de 2001. LCEur 2001\1806. Investigación
+Científica y Técnica. Clonación Humana. Doc7 mayo 2001, núm. 135, [pág. 263]).
+20 La
+
+expresión que emplea el CBE sobre la reproducción asistida, “crear vida humana en un laboratorio”, (CBE, 2020:5) no solo no se
+
+corresponde con la realidad (se fecunda un óvulo con un espermatozoide previamente vivos, y el embrión se transfiere a una mujer,
+algo muy distinto a lo que refieren. Además, para que se cree “vida humana” hace falta una mujer, no un laboratorio), sino que recuerda
+a la expresión del extremadamente conservador ministro polaco que califica de “producto” a los niños nacidos con este tipo de técnicas
+(se enseña en manuales educativos polacos) (Clarín, 2022). El lenguaje no es neutral, y hay un innegable reproche moral en este tipo
+de expresiones que tratan de estigmatizar subliminalmente a los niños nacidos mediante reproducción asistida, consecuencia de la
+posición de la Iglesia católica al respecto. Una vez más, la bioética como cruzada.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 133
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+en los tres supuestos reconocidos legalmente y no pueden hacerlo por una suma de trabas
+burocráticas, entre ellas, el ejercicio masivo de la objeción de conciencia21).
+En resumidas cuentas, si los informes del Comité de Bioética de España que hemos citado
+sobre el aborto y la eutanasia acaban influyendo en el Tribunal Constitucional, al igual que
+ha sucedido con el de la maternidad subrogada y el Tribunal Supremo, nos vamos a
+encontrar con un importante retroceso en los derechos sociales, retrotrayéndonos a la
+España de los años ochenta, y quién sabe si aun más atrás. Desde esta perspectiva,
+constitucionalizar un Comité de Bioética siguiendo el modelo de “juego de suma cero”,
+donde el ganador elige a todos o casi todos los miembros, es una absoluta temeridad.
+Hemos de explorar otras alternativas.
+
+3. Como “igualdad de oportunidades” versus “igualdad de
+resultados”
+De los tres poderes tradicionales en el parlamentarismo contemporáneo, quien goza de
+menos predicamento democrático es el poder judicial debido al sistema de elección.
+En efecto, en el imaginario de la democracia parlamentaria se presupone: a) la
+coexistencia de tres poderes que se equilibran mutuamente (que el poder vigile al poder,
+Montesquieu); b) la independencia del poder judicial respecto a los otros dos; c) y que el
+poder judicial solo aplica la ley. La mitología liberal parte del axioma del juez aséptico,
+puro y neutral que aplica normas jurídicas cuya exactitud y claridad justifican que no
+necesiten ser interpretadas, sino únicamente aplicadas, un trabajo meramente técnico
+que se realiza en un contexto jurídico caracterizado por la completitud, y por ende,
+carente de lagunas jurídicas.
+Si adaptamos estos axiomas a un hipotético Comité de Bioética constitucionalizado
+tendríamos que: a) sus miembros son puros, neutrales, esto es, aideológicos ; b) en vez de
+aplicar el ordenamiento jurídico de forma estricta y automática, emplean la “ética”,
+entendiendo por esta disciplina el equivalente en las ciencias sociales a las matemáticas
+
+21
+
+Véase Caso Tysiac contra Polonia. Sentencia del Tribunal Europeo de Derechos Humanos de fecha 20 de marzo de 2007, TEDH,
+
+2007/20; y Caso P. y S. contra Polonia. Sentencia del mismo tribunal de 30 de octubre de 2012. TEDH/2012/96.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 134
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+en las ciencias duras. Así, los miembros del comité deciden qué es “ético”, esto es, qué está
+bien o mal, pero sin contaminación ideológica alguna, de la misma forma en que un físico
+revela el funcionamiento de las leyes de la naturaleza utilizando las matemáticas como
+lenguaje. Cuando el presidente del Comité de Bioética de España sostiene que la “ética
+tranquiliza, reconforta” (Valle, 2022), está transmitiendo que los enunciados éticos se
+descubren al margen de coordenadas ideológicas o religiosas, como si determinados
+problemas tuviesen una única solución y el comité la hallara mediante el diálogo y la
+reflexión.
+En ambos casos, la judicatura y los Comités de Bioética, la variable “ideología”
+resulta molesta, turbadora, desasosegante, por lo que todos agentes actúan como si esta
+no existiera, o peor aún, como si no pudiera influir en el resultado final, sea una sentencia,
+sea un dictamen.
+“No es que el Consejo esté escorado a la derecha, es que es de derechas”. Cuando
+una vocal del Consejo General del Poder Judicial retrata así al órgano de gobierno de los
+jueces, está poniendo sobre la mesa un problema de difícil solución en España. En efecto,
+en nuestro país el acceso a la judicatura se realiza mediante oposiciones libres y
+competitivas, pero a la dificultad inherente al temario hemos de añadir factores indirectos
+que explican que los jueces se muevan en el arco político del centro derecha o la derecha
+conservadora (no podemos detenernos a comentar las numerosas sentencias que
+confirman esta tesis. Basta recordar que la principal asociación de jueces es netamente
+conservadora), justo al contrario que la sociedad española (si computamos las elecciones
+autonómicas, se mueve en el arco del centro izquierda). Para terminar de aclarar las cosas,
+el presidente del Tribunal Constitucional, en plena refriega por la renovación de algunos
+magistrados, recién ha postulado que: “Los juristas somos casi todos conservadores,
+porque el Derecho es una ciencia conservadora” (García-Trevijano, en Vidales, 2022).22
+Esta inversión ideológica (la judicatura no es representativa de la sociedad) se
+traduce en conflictividad abierta en los casos complejos. En efecto, aun cuando gran parte
+de la labor judicial diaria se mueve en un contexto puramente técnico, las soluciones a
+determinadas cuestiones solo pueden ser comprendidas y resueltas desde coordenadas
+
+22
+
+Como reflexiona Jesús Maraña, “De tanto llevar la ideología conservadora a la judicatura, se termina concluyendo que la materia
+
+jurídica es por definición conservadora” (Maraña, 2022).
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 135
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+ideológicas. ¿Cómo compatibilizar la independencia judicial con la ideología de los
+magistrados? Ser neutral y ser independiente son dos cuestiones diferentes: a los
+miembros de la carrera judicial se les exige que sean independientes frente a los poderes
+formales -partidos políticos, iglesias, etc.- o fácticos, pero no que sean neutrales, esto es
+aideológicos, dado que es imposible.
+La Constitución española, como sucede prácticamente con todas las occidentales,
+no se pronuncia sobre temas clave como el aborto o la eutanasia (las que sí lo hacen es
+porque se posicionan en contra, como sucedía en Irlanda), menos aún sobre temáticas
+más modernas como la investigación con células madre embrionarias, la clonación
+terapéutica (el artículo 3 de la Carta de Derechos Fundamentales de la UE es una rara avis
+en este tipo de normas) u otros temas bioéticos contemporáneos, como la maternidad
+subrogada. El resultado de esta anomia es que cuando determinadas leyes o conflictos
+llegan al Tribunal Supremo o al Tribunal Constitucional, la resolución final solo puede ser
+comprendida desde la ideología de quienes lo componen.
+La primera sentencia que dictó el Tribunal Supremo contra la maternidad
+subrogada reflejó un cuasi empate. En efecto, cuatro magistrados, frente a cinco,
+formularon un voto particular con el siguiente contenido:
+Esta afirmación no se puede generalizar (…) además: a) supone una
+manifestación del derecho a procrear, especialmente importante, para quienes no
+pueden tener un hijo genéticamente propio, como en este caso; b) no se puede
+subestimar sin más la capacidad de consentir de la madre gestante; c) el consentimiento
+de la madre se hace ante la autoridad judicial que vela porque se preste con libertad y
+conocimiento de las consecuencias; y d) tratándose de un acuerdo voluntario y libre
+difícilmente se le explota o cosifica en contra de su libertad y autonomía y en ningún
+caso afecta al interés del menor que nace en el seno de una familia que lo quiere. Es al
+niño al que se da una familia, y no a la familia un niño, y es el Estado el que debe ofrecer
+un marco legal que le proteja y le proporcione la necesaria seguridad jurídica.23
+
+23
+
+En otra parte del voto particular, se afirma lo siguiente: “(…) es evidente que ante un hecho consumado como es la existencia de unos
+
+menores en una familia que actúa socialmente como tal y que ha actuado legalmente conforme a la normativa extranjera, aplicar la
+normativa interna como cuestión de orden público, perjudica a los niños que podrían verse abocados a situaciones de desamparo,
+como la del caso italiano, y se les priva de su identidad y de núcleo familiar contrariando la normativa internacional que exige atender
+al interés del menor, identidad que prevalece sobre otras consideraciones, como ha destacado el Tribunal de Justicia de la Unión
+Europea (…)”.Tribunal Supremo. Sala de lo Civil. Sentencia núm. 835/2013, de 6 de febrero. RJ, 2014/833.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 136
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Si analizamos la sentencia desde un punto de vista ideológico podríamos sostener que los cinco
+votos que se posicionaron contra la maternidad subrogada se plantearon desde coordenadas
+católicas (esta institución viola la dignidad de la mujer) o, menos probable, marxistas (esta
+institución cosifica a las mujeres en un sistema de economía capitalista).
+Por el contrario, los cuatro votos a favor de la maternidad subrogada se formularon desde
+coordenadas liberales o neoliberales (“no se puede subestimar sin más la capacidad de consentir
+de la madre gestante”).
+Si mantenemos las coordenadas ideológicas, pero cambiamos la institución (v. gr. el
+aborto), tendríamos que los magistrados católicos seguirían votando en contra (prioridad del
+embrión sobre la madre), los marxistas estarían a favor (la prohibición perjudica a las mujeres de
+las clases sociales más bajas) y los liberales y neoliberales estarían también a favor (por el mismo
+argumento que la maternidad subrogada: la mujer es libre para decidir).
+Dado que resulta inevitable que los magistrados proyecten su ideología y religión en las
+sentencias de los casos complejos en bioética, la cuestión estriba en cómo afrontar este hecho,
+inevitable e innegable, sin que lo contamine todo. El acceso por el tercer turno y obstaculizar que
+los propios magistrados elijan a sus representantes en el CGPJ son dos mecanismos creados ad
+hoc para equilibrar la balanza ideológica, pero en el fondo es insatisfactorio y resta credibilidad al
+conjunto del sistema. Aun así, tampoco hay muchas más alternativas.
+Pues bien, si se constitucionalizan los Comités de Bioética resulta necesario resolver este
+problema, la ideología de sus miembros, so riesgo de acabar como en la judicatura, aun cuando las
+funciones sean muy diferentes. La única forma de afrontar claramente esta cuestión, sin
+sublimarla o esconderla bajo la alfombra, es reconocer que los miembros de este comité estarán
+posicionados desde coordenadas antagónicas, de ahí que se deba respetar la pluralidad ideológica
+en la composición. Esto es, no bastará con la cualificación profesional, la interdisciplinariedad o la
+paridad de género, sino que se habrá de reconocer expresamente el batiburrillo ideológico que
+permea a sus miembros.
+Si un Comité de Bioética lo formaran doce marxistas, nos resultaría anómalo que sus
+informes no contuviesen términos o expresiones como “dialéctico”, “materialismo”,
+“inevitabilidad” (del hundimiento del capitalismo), “inminencia” (del advenimiento del
+socialismo), etc., y nos asombraría que no examinaran los problemas (únicamente) desde la
+perspectiva de la lucha de clases. Sin embargo, si dicho comité lo conforman doce católicos, o doce
+liberales, o doce socialdemócratas, o un popurrí de estos, etc., todos esperamos que se ciñan a la
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 137
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+“ética”, citen a Kant,24 y no empleen su propia neolengua para explicar los conflictos. Sin embargo,
+tan contaminados ideológicamente están aquellos como estos, de ahí que el contenido material de
+sus posiciones en los casos controvertidos solo pueda ser explicado desde sus propias
+coordenadas ideológicas.25 26
+Pues bien, para enfrentarse a esta cuestión, y como mero experimento mental, estimo que
+un Comité de Bioética constitucionalizado debería contar con al menos tres laicistas, uno de los
+cuales debería ser además creyente (los jesuitas del Instituto Borja de Bioética en Cataluña se
+posicionaron a favor de la ley de plazos en la interrupción del embarazo y la eutanasia antes de
+que fuese legal en nuestro país, véase López Baroni, 2013); al menos tres teólogos, uno de los
+cuales debería ser además marxista (v. gr. un Teólogo de la Liberación, con su vertiente panteísta
+a pesar de su catolicismo); al menos tres feministas, uno de los cuales debería ser liberal (v. g., con
+lo que apoyaría, por ejemplo, la maternidad subrogada); al menos tres ecologistas, uno de los
+cuales debería ser además ecofeminista; tres animalistas, de los que uno debería ser
+necesariamente vegano. De forma transversal, debería guardarse cierta paridad religiosa (v. gr.,
+creyentes y ateos), cultural (representación de las minorías étnicas) y hasta futurista (v. gr., al
+menos un transhumanista), con la idea de guardar una cierta representatividad de los diversos
+sectores que investigan, escriben o participan de una manera u otra en las temáticas propias de la
+bioética.
+
+24
+
+Sobre las reiteradas citas a Kant en nuestra disciplina no estaría de más leer la crítica que formula a su ética el jurista marxista
+
+Pasukanis (1976), poco antes de que lo purgara el estalinismo.
+25
+
+Una cuestión que excede a nuestra temática, pero sobre la que no podemos dejar de decir algo, es desmenuzar brevemente para qué
+
+sirve un Comité de Bioética y con qué instrumentos dialécticos cuenta. Como sostienen Ten et al., no existe una definición oficial de
+qué es un Comité de Bioética, al menos en el contexto de la UNESCO (Ten et al., 2011). El elemento central en la mayoría de los artículos
+se centra en el aspecto deliberativo (por ejemplo, García et al., 1997), hasta el punto de proponer la presencia de al menos un bioeticista
+en los comités para aclarar y dirigir los debates (Köhler et al., 2021). Otra expresión que suele aparecer es la de respetar el “pluralismo
+ideológico” pero tratando de comprender los argumentos del “otro”, aunque sean “poco atractivos” (Carrillo-González, 2013), lo que
+requiere la creación de un “meta-espacio”, esto es “un espacio discursivo que no sea propio de ninguno de sus componentes” (Lolas,
+2003). Sobre para qué sirven, se propone que no solo informen del estado de la cuestión, sino que digan cómo hay que actuar (Montero,
+2015), propuesta que desde otras perspectivas se considera insuficiente, de ahí que se abogue por desarrollar la capacidad “crear” y
+“recrear aquellas circunstancias que corporicen principios morales, esos universales que dan sentido a la vida humana” (Lolas, 2003).
+Por último, se les pide que alcancen “soluciones éticas y prudentes” (Martínez et al., 2011), lo que se lograría con la aplicación de
+paradigmas como “La ética comunitarista, el consecuencialismo y la ética mínima como fundamentos en su conformación y ejercicio
+del rol social” (Aranguren, 2014). Como podemos observar en esta muestra representativa, la cuestión política expresa brilla por su
+ausencia.
+26 Resulta
+
+curioso que la bioética parece haber servido al psicoanálisis para que se cuestione (tardíamente) la aparente neutralidad de
+
+los psicoanalistas (véase Álvarez, 2015), mientras que en nuestra disciplina se continúa actuando como si esta neutralidad fuese, no
+ya deseable, sino posible.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 138
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+Sin duda, el arco ideológico podría complicarse aún más (v. gr., distinguir entre
+teólogos católicos o protestantes; o entre laicistas neoliberales y socialdemócratas), pero
+estimamos que las corrientes citadas representan de forma razonable los paradigmas que
+hoy día se enfrentan a las materias sobre las que se debate en bioética (en puridad, para
+que la sociedad estuviese realmente representada deberíamos incluir también a los
+homeópatas, negacionistas y demás adláteres del pensamiento mágico, pero sacrificamos
+en este caso representatividad por racionalidad, de la misma forma en que resulta
+preferible que determinadas ideologías no estén presentes en los parlamentos).
+El dictamen ideal sería un caso límite: tantos votos particulares como miembros,
+esto es, ausencia total de consenso. El otro caso límite, un dictamen adoptado por
+unanimidad, es el que debe evitarse. La unanimidad solo puede responder, bien a que el
+dictamen sea trivial (v. gr., se han posicionado contra el tráfico de órganos), bien a que
+todos pertenecen al mismo arco ideológico (v. gr., son todos católicos, o laicistas, o
+marxistas, etc.).
+En este sentido, el informe del Comité de Bioética contrario a la maternidad
+subrogada es un caso límite de falta de pluralismo ideológico (están todos en contra de la
+institución27). Paradójicamente, hasta el propio Tribunal Supremo mostró en 2014 más
+pluralismo en esta temática (cinco votos contra cuatro).
+Entre un extremo (unanimidad) y otro (soliloquios) se pueden situar numerosas
+combinaciones donde un dictamen muestre varias posiciones superpuestas (las
+diferencias residen en matices) o antagónicas (las diferencias son insalvables) sobre un
+tema complejo. Estos documentos son los que resultan realmente útiles para las
+instituciones públicas, porque muestran la pluralidad de una sociedad, la complejidad de
+las temáticas y la imposibilidad de emplear una varita mágica para mostrar una única
+solución.
+En resumidas cuentas, la función de un hipotético Comité de Bioética constitucional
+no es defender una determinada postura (nos viene bien cuando coincide con la nuestra,
+y lo rechazamos cuando coincide con nuestros adversarios) con objeto de condicionar el
+debate social. Por el contrario, su función debe ser analizar el arco de posibilidades de un
+determinado problema, y eso solo resulta posible desde la competencia técnica
+
+27
+
+En realidad hubo un voto discrepante, frente a los once restantes, como ya hemos indicado.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 139
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+(profesionales de máximo nivel en sus respectivos campos del conocimiento),
+interdisciplinariedad y, como acabamos de analizar, pluralismo ideológico. La igualdad de
+resultados presupone que el fruto final sea representativo de la sociedad, no
+necesariamente de la mayoría, y menos aún de quien ocasionalmente ostente el poder.
+
+4. Como requerimiento de la Cuarta Revolucion Industrial
+La constitucionalización de los Comités de Bioética constituye un requerimiento
+ineludible del momento tecnocientífico que vivimos, esto es, de la Cuarta Revolución
+Industrial.
+En efecto, las disciplinas implicadas en la presente revolución tratan de reescribir
+tanto la materia inerte como la materia viva, incluida nuestra especie. En esencia, nos
+enfrentamos a retos formidables como la posibilidad de modificar la línea germinal
+humana, tanto en un sentido terapéutico (v. gr., enfermedades mendelianas donde se
+conozca qué gen está implicado), como eugenésico (v. gr. mejoramiento o enhancement,
+en el sentido transhumanista); a la imbricación del genoma humano con el de los animales
+(v. gr., híbridos y quimeras); al riesgo de que los animales incrementen su capacidad
+cognitiva, emocional o social (v. gr. mediante la inserción de células o genes humanos en
+su genoma); a su extinción masiva (v. gr., mediante los “gen drivers”); al crecimiento
+exponencial de la Inteligencia Artificial, cuyo límite superior desconocemos (v. gr.,
+problema de la Caja Negra); a la aparición de entidades vivas no naturales como
+consecuencia de la biología sintética; a la modificación sustancial de las ya existentes
+mediante la biotecnología; a la manipulación a escala nanométrica de la materia
+(nanotecnología); a la conexión de los cerebros humanos a otros cerebros, a internet, o a
+no sabemos dónde, mediante las interfaces internas y externas (neurotecnologías);
+etcétera.28
+Las implicaciones éticas (cómo guiar la acción humana), sociales (en qué medida
+impactarán estos avances en la urdimbre humana) e incluso políticas (v. gr., incremento
+de la capacidad de manipulación, control o adoctrinamiento de la población) son enormes.
+Para el Derecho, en concreto, supone un reto sin precedentes, por cuanto se ha de regular
+
+28
+
+Véase al respecto López Baroni, 2021.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 140
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+el estatuto de entidades nunca antes sometidas a regulación, como las células IPS, los
+orgánulos cerebrales, los biobots o seres vivos con nucleótidos o cromosomas no
+naturales. Difícilmente el poder legislativo, y menos aún, el judicial, está en condiciones
+de encauzar adecuadamente los riesgos, interrogantes y predicciones de la tecnociencia
+contemporánea. Por supuesto, no se trata de adoptar una postura tecnófoba ni alarmista,
+pero resulta necesario tomar conciencia de que estos avances son sustancialmente
+diferentes a los proporcionados por las tres revoluciones industriales anteriores. Aquí es
+donde puede jugar un papel trascendental un Comité de Bioética constitucionalizado.
+En efecto, su legitimidad como órgano constitucional vendría dada por constituir la
+primera trinchera para analizar tanto el estatuto ontológico, jurídico y ético de las nuevas
+entidades que están emergiendo, como las implicaciones de los numerosísimos
+interrogantes que afloran sin solución de continuidad.
+Su composición, aun no siendo un problema menor, constituye una cuestión
+diferente a su necesidad. En efecto, una cosa es acertar con el mecanismo adecuado para
+elegir a sus miembros, como los hándicaps que ya hemos analizado, y otra muy diferente
+es que dicha cuestión embarre sus imprescindibles funciones en el contexto
+tecnocientífico actual.
+¿Para qué debe servir un Comité de Bioética a escala estatal? Resulta más fácil
+comenzar por enumerar para qué no debe emplearse: a) como ariete para presionar al
+poder legislativo (aun cuando podamos estar ocasionalmente de acuerdo con el objetivo
+final); b) como mecanismo de oposición al Gobierno; c) como vehículo de transmisión de
+las posiciones del poder político.
+En un contexto como la Cuarta Revolución Industrial, un Comité de Bioética debe:
+a) calibrar con prudencia las expectativas, a veces procedentes de la propia industria,
+ávida de atención mediática y/o dinero público; c) valorar adecuadamente los riesgos
+bajo la égida del principio de precaución, pero sin dejarse llevar por la histeria
+tecnofóbica, el milenarismo o la mitificación de un pasado preindustrial; c) examinar si la
+legislación actual es suficiente para afrontar los nuevos retos, proponiendo las
+modificaciones pertinentes o la creación de normas ad hoc; e) predecir el impacto social
+de las tecnociencia: f) en última instancia, proteger la naturaleza humana e incluso la
+pervivencia de la vida en el planeta, evitando legitimar directa o indirectamente
+determinados experimentos, proyectos u objetivos, como los transhumanistas.
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 141
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+En este sentido, el informe del Comité de Bioética que comentamos cumple con las
+funciones reseñadas, dado que denuncia el impacto que la maternidad subrogada tiene
+sobre las mujeres, en especial, quienes están en situación de vulnerabilidad. La crítica que
+le hemos formulado atiende a la composición de dicho comité (no era suficientemente
+plural, por lo que no es posible, salvo en el caso de su único voto particular, ilustrarse con
+más puntos de vista), pero no al contenido del mismo. Precisamente, esta capacidad de
+anticipación ha servido para alumbrar al Tribunal Supremo, junto a otros documentos de
+naturaleza similar,29 a la hora de pronunciarse:
+Un contrato de gestación por sustitución como el que es objeto de este recurso
+entraña una explotación de la mujer y un daño a los intereses superiores del menor y,
+por tanto, no puede aceptarse por principio. (…) Tanto la madre gestante como el niño
+a gestar son tratados como meros objetos, no como personas dotadas de la dignidad
+propia de su condición de seres humanos y de los derechos fundamentales inherentes a
+esa dignidad.30
+
+Pues bien, este sería el modelo ideal: el Comité de Bioética analiza todas las aristas
+posibles de un determinado problema anticipándose al poder político y orientando la
+acción judicial sin comprometerla. Su legitimidad no sería solo jurídica sino también
+moral. Nos advertirá del estado de la cuestión, de las ramificaciones de los avances que
+los demás no podemos siquiera imaginar, de las insuficiencias de nuestros mecanismos
+jurídicos y políticos, etc. Nadie le exigirá unanimidad, ni siquiera mayoría. Nos basta con
+la información suministrada desde múltiples atalayas.
+
+29 En
+
+concreto, los siguientes: 1.- Organización de las Naciones Unidas. Informe de la Relatora Especial sobre la venta y la explotación
+
+sexual de niños, incluidos la prostitución infantil, la utilización de niños en la pornografía y demás material que muestre abusos
+sexuales de niños. Consejo de Derechos Humanos. 37 periodo de sesiones. 26 de febrero a 23 de marzo de 2018; 2.- Tribunal Europeo
+de derechos Humanos. Caso Paradiso y Campanelli contra Italia. Sentencia de 24 de enero de 2017; 3.- Resolución del Parlamento
+Europeo, de 17 de diciembre de 2015, sobre el Informe anual sobre los derechos humanos y la democracia en el mundo (2014) y la
+política de la Unión Europea al respecto (apartado 115).
+30
+
+El contrato que analizó el alto tribunal era especialmente leonino, con cláusulas que parecen extraídas de la serie Black Mirror:
+
+sometimiento a controles médicos y psicológicos, renuncia a la confidencialidad, dieta, renuncia a actividad sexual, mantenimiento en
+estado vegetativo por muerte cerebral, si es el caso, hasta el parto, etc.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 142
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+5. Conclusiones
+En resumidas cuentas, el Comité de Bioética de España condenó la institución de la
+maternidad subrogada en sí misma, sin matices, por once votos contra uno; el Tribunal
+Supremo realizó la misma impugnación, pero por escaso margen, debido a un voto
+particular formulado del que puede deducirse que sus firmantes están a favor de la
+maternidad subrogada bajo determinadas condiciones; por último, el Tribunal Supremo
+declaró la nulidad de un contrato concreto estimando, por unanimidad, que violaba la
+dignidad de la mujer, apoyándose, entre otros, en el informe del Comité de Bioética de
+España.
+Y todo esto en un contexto internacional donde existe una creciente industria que
+cosifica a las mujeres; un posicionamiento de la ONU claro e indubitado contra esta
+institución, pero cuyo valor simbólico no se traduce en normas universales de carácter
+vinculante; y una jurisprudencia europea vacilante al respecto por cuanto parece admitir
+la maternidad subrogada si los contratantes, hombre o mujer, aportan material biológico
+(espermatozoide, óvulo o embrión).
+La solución española, declarar la nulidad del contrato sin sancionar, ni
+administrativa ni penalmente, a los contratantes, y legitimar de facto los contratos
+celebrados en el exterior (facilitando la adopción) no es óptima,31 pero parece que
+tampoco hay muchas más alternativas. La solución italiana, quitar el menor a los padres
+contratantes, nos parece ciertamente inhumana por cuanto ya existían vínculos afectivos,
+aun cuando resuelve el problema de una tacada.
+¿Qué podemos sacar en claro de todo esto? Podemos condensarlo en tres ideas: a)
+lo infructuoso que resulta regular estas materias a escala nacional en un contexto
+globalizado; b) la dificultad que va a tener adaptar nuestra normativa a la enorme
+casuística que va a producir la tecnociencia contemporánea; c) la creciente interacción
+entre los comités de bioética y los tribunales de justicia para enfrentarse a retos sin
+antecedentes conocidos en los ordenamientos jurídicos occidentales.
+En este contexto, estimo que elevar a rango constitucional este tipo de comités
+puede servir para afrontar un futuro incierto e impredecible en lo que a tecnociencia se
+
+31
+
+La propuesta de castigar con pena de hasta cinco años de cárcel la maternidad subrogada ha tenido un corto recorrido en el Gobierno.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 143
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+refiere.32 Sin embargo, la clave de su utilidad residirá no solo en las materias que estudie
+o en el grado de capacitación técnica de sus miembros, sino en el respeto al pluralismo
+ideológico. Solo en la medida en que represente pulcramente el batiburrillo de creencias,
+dogmas, opiniones y paradigmas de nuestra sociedad, por molesta que nos resulte la jaula
+de grillos en que se convertiría, rendirá un insustituible servicio a la Humanidad.
+
+Bibliografía
+ Álvarez Díaz, J.A. (2015): “Psicoanálisis y Bioética. Revista Latinoamericana de Bioética,
+vol. 15, núm. 1, Pp. 64-79.
+ Ansede, M. (16/04/2021): Científicos españoles crean en China 132 embriones con mezcla
+de mono y humano. El País.
+ Aranguren Ibarra, Z. M., (2014): Análisis sobre la acreditación de los comités de bioética,
+Acta Odontológica Venezolana, Vol. 52, Nº1.
+ Camps I Cervera, V. (2013): Un Comité de Bioética hecho a medida. Bioética & Debat:
+Tribuna abierta del Institut Borja de Bioètica, Nº 68, pp. 3-6.
+ Carrillo-González, S. (2013): Situación actual de los Comités de Bioética ClínicoAsistenciales en la Ciudad de Cartagena, Persona y Bioética. 17 (1), pp. 96-110.
+ Casado M, Navarro-Michel M, coords. (2019): Documento sobre gestación por sustitución,
+Observatorio de Bioética y Derecho, Universitat de Barcelona.
+ Clarín (18/08/2022). Un ministro avala que los hijos nacidos in vitro son "productos" y
+por eso un padre le hará juicio. https://www.clarin.com/internacional/ministro-avalahijos-nacidos-in-vitro-productos-padre-hara-juicio_0_uACxv6dhep.html.
+ Comité de Bioética de España (2009): Opinión a propósito del Proyecto de Ley Orgánica de
+Salud Sexual y Reproductiva y de la Interrupción Voluntaria del Embarazo. Octubre.
+ _______ (2014): Informe sobre el Anteproyecto de Ley Orgánica para la Protección de la Vida
+del Concebido y de los Derechos de la Mujer Embarazada. Mayo.
+ _______ (2017): Informe del Comité de Bioética de España sobre los aspectos éticos y jurídicos
+de la maternidad subrogada. Mayo.
+ _______ (2020a): Declaración del Comité de Bioética de España sobre la tramitación
+parlamentaria de la reforma legal de la eutanasia y auxilio al suicidio . Marzo.
+
+32
+
+La directora del Observatorio de Bioética y Derecho, Itziar de Lecuona, hizo hincapié en la necesidad de la “justicia social” ante la
+
+Convención Constitucional de Chile para apoyar la creación de un Consejo Nacional de Bioética a nivel constitucional (sesión número
+64, 29/03/2022). En https://convencion.tv/video/comision-sistemas-de-conocimientos-n64-martes-29-de-marzo-2022
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 144
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+ _______ (2020b): Informe del Comité de Bioética de España sobre el final de la vida y la
+atención en el proceso de morir, en el marco del debate sobre la regulación de la eutanasia:
+propuestas para la reflexión y la deliberación. Septiembre.
+ _______ (2020c). Informe del Comité de Bioética de España sobre el derecho de los hijos
+nacidos de las técnicas de reproducción humana asistida a conocer sus orígenes biológicos .
+ _______ (2021): Informe del Comité de Bioética de España sobre la objeción de conciencia en
+relación con la prestación de la ayuda para morir de la Ley Orgánica Reguladora de la
+Eutanasia. Abril.
+ Consejo General del Poder Judicial. Pleno (2014): Informe sobre el Anteproyecto de Ley
+Orgánica para la protección del concebido y de los derechos de la mujer embarazada. Junio.
+ Grande-Marlaska Gómez, F. (2014): Propuesta de Informe al Anteproyecto de Ley Orgánica
+para la protección del concebido y de los derechos de la mujer embarazada. Voto particular.
+Junio.
+ García, T.; Cambra, F.; Luaces, C.; Pineda, J.: Garriga, M. Comitès de Bioètica, Pediatria
+Catalana 57, pp. 303-306.
+ Köhler J., Reis AA, Saxena A. (2021): A survey of national ethics and bioethics committees.
+Bull World Health Organ, Feb 1;99 (2), pp. 138-147.
+ Maraña, J. (2/09/2022): “González-Trevijano: del Constitucional al teatro”. InfoLibre.
+https://www.infolibre.es/opinion/columnas/buzon-de-voz/gonzalez-trevijanoconstitucional-teatro_129_1309763.html.
+ Martínez Otero, J.M. et al., (2011): La deliberación en los Comités de Bioética como canal
+de formación y cauce para alcanzar soluciones éticas y prudentes. Bioética, reconocimiento
+y democracia deliberativa, Comares, Granada, 2011, pp. 557-567.
+ Ministerio de Justicia (2014). Memoria del análisis del impacto normativo del anteproyecto
+de Ley Orgánica para la protección de la vida del concebido y de los derechos de la mujer
+embarazada. 19 de diciembre.
+ Montero García, N. (2015): Metodología para abordar las malformaciones congénitas en el
+comité de bioética, Revista Colombiana de Bioética, 10(2).
+ Lolas Stepke, F. (2003): Comités de Bioética en la investigación psiquiátrica. Una respuesta
+en busca de preguntas. Salud Mental. Vol. 26. Nº4. Agosto.
+ López Baroni; M.J. (2013): Las bioéticas laicas, Argumentos de Razón Técnica, nº16, pp.
+121-161.
+ _______ (2021): Bioética y Tecnologías Disruptivas. Herder.
+ Pascual, A. (15/02/2022): “Concha Sáez (vocal del CGPJ): “No es que el Consejo esté
+escorado
+a
+la
+derecha,
+es
+que
+es
+derechas”.
+Público.
+https://www.publico.es/politica/concha-saez-vocal-cgpj-no-consejo-escorado-derechaderechas.html.
+ Pasukanis, E. (1976): Teoría General del Derecho y Marxismo. Título de la edición original;
+Obschaia Teoria Prava i Marxisma, Presentación y traducción de Virgilio Zapatero,
+Editorial Labor SA.
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 145
+
+La constitucionalización de los comités de bioética – Manuel Jesús López Baroni
+Rev Bio y Der. 2022; 56: 125-146
+DOI: 10.1344/rbd2022.56.40502
+
+ Ten Have, H; Dikenou, C.; Feinholz, D. (2011). Assisting Countries in Establishing National
+Bioethics Committees: UNESCO’s Assisting Bioethics Committees Project. Cambridge
+Quarterly of Healthcare Ethics, 20 (3), pp. 380-388.
+ Urruela Mora, A. (2008): La clonación humana ante la reforma penal y administrativa en
+España, Revista Penal, nº 21, pp. 165-191.
+ Valle, S. (1/08/2022). “Entrevista a Federico de Montalvo. Expresidente del Comité de
+Bioética de España.” El Mundo.
+ Vidales, R. (1/09/2022). “Pedro González-Trevijano: ‘El bien siempre gana’”. El País.
+
+Fecha de recepción: 13 de septiembre de 2022
+Fecha de aceptación: 30 de septiembre de 2022
+Fecha de publicación: 19 de octubre de 2022
+
+www.bioeticayderecho.ub.edu - ISSN 1886-5887
+
+| 146
+
+
